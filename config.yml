@@ -11,5 +11,15 @@ collections:
     publish: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Brand", name: "brand", widget: "relation", collection: "brand", value_field: "title", search_fields: ["brand"]}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+  - label: "Brand"
+    name: "brand"
+    folder: "brands"
+    create: true
+    publish: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      
