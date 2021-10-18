@@ -16,7 +16,7 @@ collections:
     publish: false
     fields:
       - {label: "Title", name: "title", widget: "string",i18n: true}
-      - {label: "Brand", name: "brand", widget: "relation", collection: "brand", value_field: "title", search_fields: ["brand"],i18n: duplicate}
+      - {label: "Brand", name: "brand", widget: "relation", collection: "brand", value_field: "title", search_fields: ["brand"]}
       - {label: "Featured Image", name: "thumbnail", widget: "image",i18n: duplicate}
       - {label: "Publish Date", name: "date", widget: "datetime",i18n: duplicate}
   - label: "Brand"
