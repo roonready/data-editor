@@ -1,4 +1,8 @@
 ---
-title: antipodes
-date: 2021-07-11T12:32:13.878Z
+en:
+  date: 2021-10-13T17:16:40.282Z
+  title: English
+ru:
+  date: 2021-10-13T17:16:40.282Z
+  title: Русский
 ---
