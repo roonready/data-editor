@@ -9,4 +9,8 @@ ru:
   brand: English
   title: рус
   thumbnail: /img/partners-auralic_polaris.png
+title: POLARIS
+brand: AURALiC
+thumbnail: /img/partners-auralic_polaris.png
+date: 2021-10-19T12:06:15.157Z
 ---
