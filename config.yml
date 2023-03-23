@@ -1,7 +1,7 @@
 backend: { name: "git-gateway", branch: "main" },
-  media_folder: "public/images",
-  public_folder: "/images",
-  collections: [
+media_folder: "public/images",
+public_folder: "/images",
+collections: [
     {
       name: "config",
       label: "Config",
@@ -140,6 +140,6 @@ backend: { name: "git-gateway", branch: "main" },
         },
         { label: "Body", name: "body", widget: "markdown" },
       ],
-    },
+    }
   ],
       
