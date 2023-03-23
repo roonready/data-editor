@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo:roonready/data-editor
+  repo: roonready/data-editor
   branch: main
 media_folder: img
 publish_mode: editorial_workflow
