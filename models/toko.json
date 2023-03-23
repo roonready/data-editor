@@ -1,7 +1,11 @@
 {
   "date": "2023-03-23T18:42:49.169Z",
   "title": "toko",
-  "brand": "Ayre",
+<<<<<<< HEAD
+  "brand": "BLUESOUND",
+=======
+  "brand": "ayon audio",
+>>>>>>> parent of 0ad4985 (Merge pull request #39 from roonready/cms/model/toko)
   "thumbnail": "/img/partners-auralic_polaris.png",
   "description": " x﻿xx"
 }
