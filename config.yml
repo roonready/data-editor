@@ -12,7 +12,7 @@ collections:
     publish: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Brand", name: "brand", widget: "relation", collection: "brand", value_field: "title", search_fields: ["brand"]}
+      - {label: "Brand", name: "brand", widget: "relation", collection: "brand", value_field: "{{slug}}", search_fields: ["brand"]}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Description" , name: "description", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
