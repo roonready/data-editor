@@ -20,7 +20,9 @@ collections:
         collection: brand
         value_field: '{{slug}}'
         display_fields:
-          - title      
+          - title
+        search_fields:
+          - title  
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Description" , name: "description", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
