@@ -1,15 +1,22 @@
 backend:
   name: git-gateway
-  branch: main
+#local_backend:
+  # start npx @staticcms/proxy-server firts
+#  url: http://127.0.0.1:8081/api/v1
+i18n:
+  structure: single_file
+  locales: [en, ru, uk]
+  defaultLocale: en
 media_folder: img
 collections:
-  - label: "Model"
-    name: "model"
-    folder: "models"
-    format: "json"
+  - label: Model
+    name: model
+    folder: models
+    format: json
     create: true
     publish: true
     delete: true
+    i18n: true
     fields:
       - label: Title
         name: title
@@ -18,18 +25,46 @@ collections:
         name: brand
         widget: relation
         collection: brands
-        value_field: '{{slug}}'
+        value_field: "{{slug}}"
         display_fields:
           - title
         search_fields:
-          - title  
-  - label: "Brand"
-    name: "brands"
-    folder: "brands"
+          - title
+      - label: Type
+        name: type
+        widget: relation
+        collection: types
+        value_field: title
+        display_fields:
+          - title
+        search_fields:
+          - title
+  - label: Brand
+    name: brands
+    folder: brands
+    format: json
     create: true
     publish: true
     delete: false
     fields:
       - label: Title
         name: title
-        widget: string  
+        widget: string
+  - label: Type
+    name: types
+    i18n: true
+    folder: types
+    format: json
+    create: true
+    publish: true
+    delete: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: false
+        i18n: true
+      - label: ETitle
+        name: etitle
+        widget: string
+        required: false
