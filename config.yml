@@ -39,6 +39,9 @@ collections:
           - title
         search_fields:
           - title
+      - label: Image
+        name: image
+        widget: image
   - label: Brand
     name: brands
     folder: brands
