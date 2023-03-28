@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
-local_backend:
-  #  for local development start npx @staticcms/proxy-server first
-  url: http://127.0.0.1:8081/api/v1
+#local_backend:
+#  for local development start npx @staticcms/proxy-server first
+#  url: http://127.0.0.1:8081/api/v1
 i18n:
   structure: single_file
   locales: [en, de, ja, es, fr, zh, it, pl, pt, ar, sv, el, vi, nl, ru, uk]
