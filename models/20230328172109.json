@@ -19,7 +19,13 @@
       "ppl": "prod",
       "uspl": "user"
     },
-    "yamodel": "yqm"
+    "yamodel": "yqm",
+    "dsl": [
+      {
+        "linkdesc": "link",
+        "linkurl": "linkurl"
+      }
+    ]
   },
   "de": {},
   "fr": {},
