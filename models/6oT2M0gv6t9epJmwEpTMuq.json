@@ -1,1 +1,49 @@
-{"en":{"image":"/img/antipodes-ex.webp","title":"EX","brand":"antipodes","Input":["Ethernet"],"type":"5CCVm750RvBKZJKUr9MAYX","imagecollection":[null],"yta":2017,"mrp":5400,"remark":null,"desc":"[fn](https://diigo.com/0immkh)\n[p](https://monosnap.com/file/cS8UXU5cNNrC2Di8b8UbjzDY698qRk)\n[y](https://diigo.com/0iodx7)\n","yamodel":null,"dsl":[{"linkurl":"https://antipodes.audio/antipodes-ex.php"},{"linkurl":"https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"},{"linkurl":"https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"},{"linkurl":"https://stereo.ru/news/antipodes-audio-ex-cx"},{"linkurl":"https://6moons.com/audioreview_articles/antipodes/"},{"linkurl":"https://www.hifi-advice.com/blog/review/digital-reviews/network-player-reviews/antipodes-ex-music-server/"},{"linkurl":"https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/"},{"linkurl":"https://www.youtube.com/watch?v=r6fQofJGLM8"},{"linkurl":"https://www.hifistatement.net/tests/item/2620-antipodes-ex?start=0"}]},"de":{},"fr":{},"ru":{}}
+{
+  "en": {
+    "image": "/img/antipodes-ex.webp",
+    "title": "EX",
+    "brand": "antipodes",
+    "Input": [
+      "Ethernet"
+    ],
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "imagecollection": [],
+    "yta": 2017,
+    "mrp": 5400,
+    "remark": null,
+    "desc": "[fn](https://diigo.com/0immkh)\n[p](https://monosnap.com/file/cS8UXU5cNNrC2Di8b8UbjzDY698qRk)\n[y](https://diigo.com/0iodx7)\n",
+    "yamodel": null,
+    "dsl": [
+      {
+        "linkurl": "https://antipodes.audio/antipodes-ex.php"
+      },
+      {
+        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"
+      },
+      {
+        "linkurl": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"
+      },
+      {
+        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx"
+      },
+      {
+        "linkurl": "https://6moons.com/audioreview_articles/antipodes/"
+      },
+      {
+        "linkurl": "https://www.hifi-advice.com/blog/review/digital-reviews/network-player-reviews/antipodes-ex-music-server/"
+      },
+      {
+        "linkurl": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/"
+      },
+      {
+        "linkurl": "https://www.youtube.com/watch?v=r6fQofJGLM8"
+      },
+      {
+        "linkurl": "https://www.hifistatement.net/tests/item/2620-antipodes-ex?start=0"
+      }
+    ]
+  },
+  "de": {},
+  "fr": {},
+  "ru": {}
+}
