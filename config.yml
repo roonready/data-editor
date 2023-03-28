@@ -20,6 +20,7 @@ collections:
     slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
     summary: "{{brand}} {{title}}"
     sortable_fields:
+      fields: ["brand", "yta"]
       default:
         field: brand
         direction: Ascending
