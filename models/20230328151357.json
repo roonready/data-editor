@@ -12,8 +12,16 @@
     ],
     "yta": 2014,
     "mrp": 233,
-    "remark": "dfas",
-    "desc": "ZCRE\n"
+    "remark": "dfas FD",
+    "desc": "ZCREFFF\n",
+    "dsl": [
+      {
+        "linkdesc": "пРИВЕТ",
+        "linkurl": "https://app.netlify.com/sites/roonready/overview"
+      }
+    ],
+    "manual_pdf": "/img/ALTAIR_G1_Front_2.jpg",
+    "type": "5CCVm750RvBKZJKUr9MAYX"
   },
   "de": {},
   "ja": {},
@@ -28,6 +36,8 @@
   "el": {},
   "vi": {},
   "nl": {},
-  "ru": {},
+  "ru": {
+    "manual_pdf": "/img/ALTAIR_G1_Front.jpg"
+  },
   "uk": {}
 }
