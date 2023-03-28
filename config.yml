@@ -148,6 +148,10 @@ collections:
             required: true
             widget: string
             i18n: true
+      - label: Yandex Model
+        name: yamodel
+        widget: string
+        required: false
   - label: Brand
     name: brands
     folder: brands
