@@ -1,0 +1,178 @@
+backend:
+  name: git-gateway
+local_backend:
+  #  for local development start npx @staticcms/proxy-server first
+  url: http://127.0.0.1:8081/api/v1
+i18n:
+  structure: single_file
+  locales: [en, de, ja, es, fr, zh, it, pl, pt, ar, sv, el, vi, nl, ru, uk]
+  defaultLocale: en
+media_folder: img
+collections:
+  - label: Model
+    name: model
+    folder: models
+    format: json
+    create: true
+    publish: true
+    delete: true
+    i18n: true
+    slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Brand
+        name: brand
+        required: true
+        widget: relation
+        collection: brands
+        value_field: "{{slug}}"
+        display_fields:
+          - title
+        search_fields:
+          - title
+      - lavel: Input
+        name: Input
+        required: false
+        widget: select
+        options: ["Ethernet", "Wi-Fi"]
+        multiple: true
+      - label: Type
+        name: type
+        widget: relation
+        required: false
+        collection: types
+        value_field: "{{slug}}"
+        display_fields:
+          - title
+        search_fields:
+          - title
+      - label: Image (only B&W thumbs!)
+        name: image
+        widget: image
+        required: false
+      - label: Image collection
+        name: imagecollection
+        widget: list
+        required: false
+        fields:
+          - label: Image
+            name: image
+            widget: image
+      - label: Year to announce
+        name: yta
+        required: false
+        widget: number
+        value_type: int
+        min: 2010
+        max: 2030
+      - label: Manufaturer's recommended price (USD)
+        name: mrp
+        widget: number
+        required: false
+        value_type: int
+        min: 10
+        max: 50000
+      - label: Remarks (for selected language)
+        name: remark
+        i18n: true
+        widget: text
+        required: false
+      - label: Description (for selected language)
+        name: desc
+        i18n: true
+        widget: markdown
+        required: false
+      - label: Datasource and other proof links
+        name: dsl
+        widget: list
+        required: false
+        fields:
+          - label: Link description
+            name: linkdesc
+            widget: string
+            required: true
+            i18n: true
+          - label: URL
+            name: linkurl
+            required: true
+            widget: string
+            i18n: true
+      - label: Datasource and other proof files
+        name: dsf
+        widget: list
+        required: false
+        fields:
+          - label: file description
+            name: filedesc
+            widget: string
+            required: true
+          - label: File
+            name: file
+            required: true
+            widget: file
+      - label: Manual PDF (for selected language)
+        name: manual_pdf
+        widget: file
+        required: false
+        i18n: true
+      - label: Manufaturer's  website links (for selected language)
+        name: mwl
+        widget: object
+        required: false
+        i18n: true
+        fields:
+          - label: Product Page URL
+            name: ppl
+            widget: string
+            required: false
+          - label: User's support page URL
+            name: uspl
+            widget: string
+            required: false
+      - label: Related links (reviews etc.) (for selected language)
+        name: rl
+        widget: list
+        i18n: true
+        required: false
+        fields:
+          - label: Link description
+            name: linkdesc
+            widget: string
+            required: true
+            i18n: true
+          - label: URL
+            name: linkurl
+            required: true
+            widget: string
+            i18n: true
+  - label: Brand
+    name: brands
+    folder: brands
+    format: json
+    create: true
+    publish: true
+    delete: false
+    slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
+    fields:
+      - label: Title
+        name: title
+        required: true
+        widget: string
+  - label: Type
+    name: types
+    i18n: true
+    folder: types
+    format: json
+    create: true
+    publish: true
+    delete: false
+    slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+        i18n: true
