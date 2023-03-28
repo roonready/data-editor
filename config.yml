@@ -9,7 +9,7 @@ i18n:
   defaultLocale: en
 media_folder: img
 collections:
-  - label: Model
+  - label: Models
     name: model
     folder: models
     format: json
@@ -152,7 +152,7 @@ collections:
         name: yamodel
         widget: string
         required: false
-  - label: Brand
+  - label: Brands
     name: brands
     folder: brands
     format: json
@@ -165,7 +165,7 @@ collections:
         name: title
         required: true
         widget: string
-  - label: Type
+  - label: Types
     name: types
     i18n: true
     folder: types
