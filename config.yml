@@ -99,7 +99,7 @@ collections:
           - label: Link description
             name: linkdesc
             widget: string
-            required: true
+            required: false
             i18n: true
           - label: URL
             name: linkurl
