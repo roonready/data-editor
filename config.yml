@@ -5,7 +5,7 @@ backend:
 #  url: http://127.0.0.1:8081/api/v1
 i18n:
   structure: single_file
-  locales: [en, de, ru]
+  locales: [en, de, fr, ru]
   defaultLocale: en
 media_folder: img
 collections:
