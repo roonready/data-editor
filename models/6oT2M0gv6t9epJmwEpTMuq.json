@@ -24,9 +24,6 @@
         "linkurl": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"
       },
       {
-        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx"
-      },
-      {
         "linkurl": "https://6moons.com/audioreview_articles/antipodes/"
       },
       {
@@ -43,7 +40,14 @@
       }
     ]
   },
-  "de": {},
+  "de": {
+    "rl": [
+      {
+        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx",
+        "linkdesc": "Обзор в STEREO & VIDEO"
+      }
+    ]
+  },
   "fr": {},
   "ru": {}
 }
