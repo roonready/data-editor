@@ -133,10 +133,12 @@ collections:
           - label: Product Page URL
             name: ppl
             widget: string
+            i18n: true
             required: false
           - label: User's support page URL
             name: uspl
             widget: string
+            i18n: true
             required: false
       - label: Related links (reviews etc.) (for selected language)
         name: rl
