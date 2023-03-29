@@ -15,9 +15,6 @@
     "yamodel": null,
     "dsl": [
       {
-        "linkurl": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"
-      },
-      {
         "linkurl": "https://6moons.com/audioreview_articles/antipodes/"
       },
       {
@@ -45,7 +42,13 @@
     ],
     "mwl": {
       "ppl": "https://web.archive.org/web/20210307083217/https://antipodes.audio/antipodes-ex.php"
-    }
+    },
+    "rl": [
+      {
+        "linkurl": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac",
+        "linkdesc": "Antipodes Audio EX Music Server/DAC"
+      }
+    ]
   },
   "de": {
     "rl": []
