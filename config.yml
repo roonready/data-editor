@@ -59,14 +59,6 @@ collections:
         name: image
         widget: image
         required: false
-      - label: Image collection
-        name: imagecollection
-        widget: list
-        required: false
-        fields:
-          - label: Image
-            name: image
-            widget: image
       - label: Year to announce
         name: yta
         required: false
@@ -106,24 +98,7 @@ collections:
             required: true
             widget: string
             i18n: true
-      - label: Datasource and other proof files
-        name: dsf
-        widget: list
-        required: false
-        fields:
-          - label: file description
-            name: filedesc
-            widget: string
-            required: true
-          - label: File
-            name: file
-            required: true
-            widget: file
-      - label: Manual PDF (for selected language)
-        name: manual_pdf
-        widget: file
-        required: false
-        i18n: true
+
       - label: Manufaturer's  website links (for selected language)
         name: mwl
         widget: object
