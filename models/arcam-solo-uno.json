@@ -14,9 +14,14 @@
     "yta": 2019,
     "mrp": 700,
     "remark": null,
-    "desc": "[yp](https://monosnap.com/file/K5mBmKQLCd6myI4uRBOMgVEP9e4kW0)\n[fn](https://1drv.ms/b/s!AkPnUix5zs-LgopAZM7Graf8wY94GQ?e=n4M0gA)",
+    "desc": "\n[fn](https://1drv.ms/b/s!AkPnUix5zs-LgopAZM7Graf8wY94GQ?e=n4M0gA)\n",
     "yamodel": null,
-    "dsl": [],
+    "dsl": [
+      {
+        "linkurl": "https://monosnap.com/file/K5mBmKQLCd6myI4uRBOMgVEP9e4kW0",
+        "linkdesc": "year price"
+      }
+    ],
     "mwl": {
       "ppl": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm"
     }
