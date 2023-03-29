@@ -11,15 +11,9 @@
     "yta": 2017,
     "mrp": 5400,
     "remark": null,
-    "desc": "[y](https://diigo.com/0iodx7)[y](https://diigo.com/0iodx7)[y](https://diigo.com/0iodx7)\n",
+    "desc": "\n\n\n",
     "yamodel": null,
     "dsl": [
-      {
-        "linkurl": "https://antipodes.audio/antipodes-ex.php"
-      },
-      {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"
-      },
       {
         "linkurl": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"
       },
@@ -48,7 +42,10 @@
       {
         "linkurl": "https://web.archive.org/web/20200805033107/https://antipodes.audio/antipodes-technology.php"
       }
-    ]
+    ],
+    "mwl": {
+      "ppl": "https://web.archive.org/web/20210307083217/https://antipodes.audio/antipodes-ex.php"
+    }
   },
   "de": {
     "rl": []
@@ -59,6 +56,10 @@
       {
         "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx",
         "linkdesc": "Обзор в STEREO & VIDEO"
+      },
+      {
+        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
+        "linkdesc": "Hi-Fi.ru: Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
       }
     ]
   }
