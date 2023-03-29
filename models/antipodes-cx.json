@@ -13,12 +13,9 @@
     "yta": 2017,
     "mrp": 8700,
     "remark": null,
-    "desc": "[y](https://diigo.com/0iodx7)",
+    "desc": "[y](https://diigo.com/0iodx7)\n",
     "yamodel": null,
     "dsl": [
-      {
-        "linkurl": "https://antipodes.audio/antipodes-cx.php"
-      },
       {
         "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"
       },
@@ -33,7 +30,7 @@
       }
     ],
     "mwl": {
-      "ppl": "https://antipodes.audio/antipodes-cx.php"
+      "ppl": "https://web.archive.org/web/20210805180800/https://antipodes.audio/antipodes-cx.php"
     }
   },
   "de": {},
