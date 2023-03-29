@@ -11,7 +11,7 @@
     "yta": 2017,
     "mrp": 5400,
     "remark": null,
-    "desc": "\n[y](https://diigo.com/0iodx7)[y](https://diigo.com/0iodx7)[y](https://diigo.com/0iodx7)\n",
+    "desc": "[y](https://diigo.com/0iodx7)[y](https://diigo.com/0iodx7)[y](https://diigo.com/0iodx7)\n",
     "yamodel": null,
     "dsl": [
       {
@@ -44,6 +44,9 @@
       {
         "linkurl": "https://monosnap.com/file/cS8UXU5cNNrC2Di8b8UbjzDY698qRk",
         "linkdesc": "price"
+      },
+      {
+        "linkurl": "https://web.archive.org/web/20200805033107/https://antipodes.audio/antipodes-technology.php"
       }
     ]
   },
