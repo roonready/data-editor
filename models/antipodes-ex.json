@@ -13,7 +13,7 @@
     "yta": 2017,
     "mrp": 5400,
     "remark": null,
-    "desc": "[fn](https://diigo.com/0immkh)\n\n[y](https://diigo.com/0iodx7)\n",
+    "desc": "\n\n\n\n\n\n\n",
     "yamodel": null,
     "dsl": [
       {
@@ -42,8 +42,14 @@
       },
       {
         "linkurl": "https://www.hifistatement.net/tests/item/2620-antipodes-ex?start=0"
+      },
+      {
+        "linkurl": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
       }
-    ]
+    ],
+    "mwl": {
+      "ppl": "https://web.archive.org/web/20211021014630/https://antipodes.audio/antipodes-ex.php"
+    }
   },
   "de": {},
   "fr": {},
