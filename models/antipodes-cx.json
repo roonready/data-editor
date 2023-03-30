@@ -17,15 +17,6 @@
     "yamodel": null,
     "dsl": [
       {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"
-      },
-      {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/"
-      },
-      {
-        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx"
-      },
-      {
         "linkurl": "https://6moons.com/audioreview_articles/antipodes/"
       },
       {
@@ -38,5 +29,16 @@
   },
   "de": {},
   "fr": {},
-  "ru": {}
+  "ru": {
+    "rl": [
+      {
+        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
+        "linkdesc": "Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
+      },
+      {
+        "linkdesc": "Antipodes представила два музыкальных сервера CX и EX",
+        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx"
+      }
+    ]
+  }
 }
