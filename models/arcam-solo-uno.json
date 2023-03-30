@@ -14,7 +14,7 @@
     "yta": 2019,
     "mrp": 700,
     "remark": null,
-    "desc": "\n[fn](https://1drv.ms/b/s!AkPnUix5zs-LgopAZM7Graf8wY94GQ?e=n4M0gA)\n",
+    "desc": "\n\n\n",
     "yamodel": null,
     "dsl": [
       {
@@ -24,9 +24,35 @@
     ],
     "mwl": {
       "ppl": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm"
-    }
+    },
+    "rl": [
+      {
+        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
+        "linkdesc": "Manual"
+      }
+    ]
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "rl": [
+      {
+        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
+        "linkdesc": "HANDBOOK"
+      }
+    ]
+  },
+  "fr": {
+    "rl": [
+      {
+        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display"
+      }
+    ]
+  },
+  "ru": {
+    "rl": [
+      {
+        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
+        "linkdesc": "Руководство пользователя"
+      }
+    ]
+  }
 }
