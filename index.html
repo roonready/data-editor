@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Content Manager</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
@@ -10,7 +10,17 @@
     <!-- Include the script that builds the page and powers Static CMS -->
     <script src="https://unpkg.com/@staticcms/app@^1.0.0/dist/static-cms-app.js"></script>
     <script>
-      window.CMS.init();
+      window
+        .CMS
+        .init();
+      CMS.registerAdditionalLink({
+        id: 'repository',
+        title: 'Github repository link',
+        data: 'https://github.com/roonready/data-editor',
+        options: {
+          icon: 'page'
+        }
+      });
     </script>
   </body>
 </html>
