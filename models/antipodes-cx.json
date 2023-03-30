@@ -17,15 +17,18 @@
     "yamodel": null,
     "dsl": [
       {
-        "linkurl": "https://6moons.com/audioreview_articles/antipodes/"
-      },
-      {
         "linkurl": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
       }
     ],
     "mwl": {
       "ppl": "https://web.archive.org/web/20210805180800/https://antipodes.audio/antipodes-cx.php"
-    }
+    },
+    "rl": [
+      {
+        "linkurl": "https://6moons.com/audioreview_articles/antipodes/",
+        "linkdesc": "6moons review"
+      }
+    ]
   },
   "de": {},
   "fr": {},
