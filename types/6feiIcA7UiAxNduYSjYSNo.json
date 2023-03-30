@@ -2,8 +2,13 @@
   "en": {
     "title": "Acoustics"
   },
+  "de": {
+    "title": "Akustik"
+  },
+  "fr": {
+    "title": "Acoustique"
+  },
   "ru": {
     "title": "Акустика"
-  },
-  "uk": {}
+  }
 }
