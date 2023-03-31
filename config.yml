@@ -133,10 +133,50 @@ collections:
             required: false
             widget: string
             i18n: true
-      - label: Yandex Model
-        name: yamodel
-        widget: string
+      - label: Variants and offers
+        name: variants
+        widget: list
         required: false
+        i18n: false
+        fields:
+          - label: Color
+            name: color
+            widget: relation
+            collection: colors
+            required: true
+            i18n: false
+            value_field: "{{slug}}"
+            display_fields:
+              - title
+            search_fields:
+              - title
+          - label: Distinctive feature
+            name: feature
+            widget: string
+            i18n: false
+            required: false
+          - label: Offers
+            name: offers
+            widget: list
+            i18n: false
+            required: false
+            fields:
+              - label: Markets
+                name: markets
+                widget: relation
+                required: false
+                collection: markets
+                value_field: "{{slug}}"
+                display_fields:
+                  - title
+                search_fields:
+                  - title
+                multiple: true
+              - label: URL
+                name: url
+                required: false
+                widget: string
+
   - label: Brands
     name: brands
     folder: data/brands
@@ -193,64 +233,3 @@ collections:
         widget: string
         required: false
         i18n: true
-  - label: Variants
-    name: variants
-    i18n: true
-    folder: data/variants
-    format: json
-    create: true
-    publish: true
-    delete: false
-    slug: "{{model}}-{{color}}-{{feature}}"
-    identifier_field: model
-    summary: "{{model}} {{color}} {{feature}}"
-    fields:
-      - label: Model
-        name: model
-        widget: relation
-        collection: model
-        required: true
-        i18n: false
-        value_field: "{{slug}}"
-        display_fields:
-          - brand
-          - title
-        search_fields:
-          - title
-      - label: Color
-        name: color
-        widget: relation
-        collection: colors
-        required: true
-        i18n: false
-        value_field: "{{slug}}"
-        display_fields:
-          - title
-        search_fields:
-          - title
-      - label: Distinctive feature
-        name: feature
-        widget: string
-        i18n: true
-        required: false
-      - label: Offers
-        name: offers
-        widget: list
-        i18n: false
-        required: false
-        fields:
-          - label: Markets
-            name: markets
-            widget: relation
-            required: false
-            collection: markets
-            value_field: "{{slug}}"
-            display_fields:
-              - title
-            search_fields:
-              - title
-            multiple: true
-          - label: URL
-            name: url
-            required: false
-            widget: string
