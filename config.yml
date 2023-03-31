@@ -7,12 +7,12 @@ i18n:
   structure: single_file
   locales: [en, de, fr, ru]
   defaultLocale: en
-media_folder: img
+media_folder: data/img
 logo_url: roon.jpg
 collections:
   - label: Models
     name: model
-    folder: models
+    folder: data/models
     format: json
     create: true
     publish: true
@@ -139,7 +139,7 @@ collections:
         required: false
   - label: Brands
     name: brands
-    folder: brands
+    folder: data/brands
     format: json
     create: true
     publish: true
@@ -153,7 +153,7 @@ collections:
   - label: Types
     name: types
     i18n: true
-    folder: types
+    folder: data/types
     format: json
     create: true
     publish: true
@@ -168,7 +168,7 @@ collections:
   - label: Colors
     name: colors
     i18n: true
-    folder: colors
+    folder: data/colors
     format: json
     create: true
     publish: true
@@ -182,7 +182,7 @@ collections:
   - label: Markets
     name: markets
     i18n: true
-    folder: markets
+    folder: data/markets
     format: json
     create: true
     publish: true
@@ -196,7 +196,7 @@ collections:
   - label: Variants
     name: variants
     i18n: true
-    folder: variants
+    folder: data/variants
     format: json
     create: true
     publish: true
