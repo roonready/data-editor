@@ -7,7 +7,7 @@ i18n:
   structure: single_file
   locales: [en, de, fr, ru]
   defaultLocale: en
-media_folder: data/img
+media_folder: img
 logo_url: roon.jpg
 collections:
   - label: Models
