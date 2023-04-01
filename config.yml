@@ -109,12 +109,12 @@ collections:
         required: false
         fields:
           - label: Link description
-            name: linkdesc
+            name: related_link_description
             widget: string
             required: false
             i18n: true
           - label: URL
-            name: linkurl
+            name: related_link_url
             required: false
             widget: string
             i18n: true
@@ -171,12 +171,12 @@ collections:
         required: false
         fields:
           - label: Link description
-            name: linkdesc
+            name: datasource_link_description
             widget: string
             required: false
             i18n: true
           - label: URL
-            name: linkurl
+            name: datasource_link_url
             required: false
             widget: string
             i18n: false

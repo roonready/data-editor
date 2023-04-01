@@ -17,34 +17,34 @@
     "yamodel": null,
     "datasource_link": [
       {
-        "linkurl": "https://antipodes.audio/antipodes-ex.php"
+        "datasource_link_url": "https://antipodes.audio/antipodes-ex.php"
       },
       {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"
+        "datasource_link_url": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/"
       },
       {
-        "linkurl": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"
+        "datasource_link_url": "https://www.hifinews.com/content/antipodes-audio-ex-music-serverdac"
       },
       {
-        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx"
+        "datasource_link_url": "https://stereo.ru/news/antipodes-audio-ex-cx"
       },
       {
-        "linkurl": "https://6moons.com/audioreview_articles/antipodes/"
+        "datasource_link_url": "https://6moons.com/audioreview_articles/antipodes/"
       },
       {
-        "linkurl": "https://www.hifi-advice.com/blog/review/digital-reviews/network-player-reviews/antipodes-ex-music-server/"
+        "datasource_link_url": "https://www.hifi-advice.com/blog/review/digital-reviews/network-player-reviews/antipodes-ex-music-server/"
       },
       {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/"
+        "datasource_link_url": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/"
       },
       {
-        "linkurl": "https://www.youtube.com/watch?v=r6fQofJGLM8"
+        "datasource_link_url": "https://www.youtube.com/watch?v=r6fQofJGLM8"
       },
       {
-        "linkurl": "https://www.hifistatement.net/tests/item/2620-antipodes-ex?start=0"
+        "datasource_link_url": "https://www.hifistatement.net/tests/item/2620-antipodes-ex?start=0"
       },
       {
-        "linkurl": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
+        "datasource_link_url": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
       }
     ],
     "essential_links": {

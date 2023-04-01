@@ -17,11 +17,11 @@
     "yamodel": null,
     "datasource_link": [
       {
-        "linkurl": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
+        "datasource_link_url": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
       },
       {
-        "linkurl": "https://web.archive.org/web/20210805180800/https://antipodes.audio/antipodes-cx.php",
-        "linkdesc": "archived product page "
+        "datasource_link_url": "https://web.archive.org/web/20210805180800/https://antipodes.audio/antipodes-cx.php",
+        "datasource_link_description": "archived product page "
       }
     ],
     "essential_links": {
@@ -29,8 +29,8 @@
     },
     "related_links": [
       {
-        "linkurl": "https://6moons.com/audioreview_articles/antipodes/",
-        "linkdesc": "6moons review"
+        "related_link_url": "https://6moons.com/audioreview_articles/antipodes/",
+        "related_link_description": "6moons review"
       }
     ]
   },
@@ -39,16 +39,16 @@
   "ru": {
     "related_links": [
       {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
-        "linkdesc": "Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
+        "related_link_url": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
+        "related_link_description": "Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
       },
       {
-        "linkdesc": "Antipodes представила два музыкальных сервера CX и EX",
-        "linkurl": "https://stereo.ru/news/antipodes-audio-ex-cx"
+        "related_link_description": "Antipodes представила два музыкальных сервера CX и EX",
+        "related_link_url": "https://stereo.ru/news/antipodes-audio-ex-cx"
       },
       {
-        "linkurl": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/",
-        "linkdesc": "Тест Antipodes CX + EX Музыкальный сервер и стример «под микроскопом»"
+        "related_link_url": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/",
+        "related_link_description": "Тест Antipodes CX + EX Музыкальный сервер и стример «под микроскопом»"
       }
     ]
   }

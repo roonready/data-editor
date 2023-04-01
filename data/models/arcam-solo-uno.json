@@ -18,8 +18,8 @@
     "yamodel": null,
     "datasource_link": [
       {
-        "linkurl": "https://monosnap.com/file/K5mBmKQLCd6myI4uRBOMgVEP9e4kW0",
-        "linkdesc": "year price"
+        "datasource_link_url": "https://monosnap.com/file/K5mBmKQLCd6myI4uRBOMgVEP9e4kW0",
+        "datasource_link_description": "year price"
       }
     ],
     "essential_links": {
@@ -27,31 +27,31 @@
     },
     "related_links": [
       {
-        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
-        "linkdesc": "Manual"
+        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
+        "related_link_description": "Manual"
       }
     ]
   },
   "de": {
     "related_links": [
       {
-        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
-        "linkdesc": "HANDBOOK"
+        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
+        "related_link_description": "HANDBOOK"
       }
     ]
   },
   "fr": {
     "related_links": [
       {
-        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display"
+        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display"
       }
     ]
   },
   "ru": {
     "related_links": [
       {
-        "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
-        "linkdesc": "Руководство пользователя"
+        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
+        "related_link_description": "Руководство пользователя"
       }
     ]
   }

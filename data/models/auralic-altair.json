@@ -18,16 +18,16 @@
     "yamodel": 662956514,
     "datasource_link": [
       {
-        "linkurl": "https://support.auralic.com/hc/en-us/categories/203123668-AURALiC-ALTAIR"
+        "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/203123668-AURALiC-ALTAIR"
       },
       {
-        "linkurl": "https://monosnap.com/file/YFkqMeVU3bq8PFDhe5MeMMOZHiNqyF"
+        "datasource_link_url": "https://monosnap.com/file/YFkqMeVU3bq8PFDhe5MeMMOZHiNqyF"
       }
     ],
     "related_links": [
       {
-        "linkurl": "https://onedrive.live.com/?authkey=%21AMsi2UuUYD11al8&id=8BCFCE792C52E743%2131961&cid=8BCFCE792C52E743&parId=root&parQt=sharedby&o=OneUp",
-        "linkdesc": "Manual"
+        "related_link_url": "https://onedrive.live.com/?authkey=%21AMsi2UuUYD11al8&id=8BCFCE792C52E743%2131961&cid=8BCFCE792C52E743&parId=root&parQt=sharedby&o=OneUp",
+        "related_link_description": "Manual"
       }
     ]
   },
