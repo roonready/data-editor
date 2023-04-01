@@ -53,7 +53,15 @@
       },
       {
         "color": "silver",
-        "variant_image": "/img/14.jpg"
+        "variant_image": "/img/14.jpg",
+        "offers": [
+          {
+            "markets": [
+              "uk"
+            ],
+            "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
+          }
+        ]
       }
     ]
   },
