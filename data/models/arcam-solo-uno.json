@@ -23,36 +23,27 @@
       }
     ],
     "essential_links": {
-      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm"
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm",
+      "manual_url": "https://ia601604.us.archive.org/18/items/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display/00_SH294_EN-FR-DE-NL-ES-RU-IT-CN_Issue3_display.pdf"
     },
-    "related_links": [
-      {
-        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
-        "related_link_description": "Manual"
-      }
-    ]
+    "related_links": []
   },
   "de": {
-    "related_links": [
-      {
-        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
-        "related_link_description": "HANDBOOK"
-      }
-    ]
+    "related_links": [],
+    "essential_links": {
+      "manual_url": "https://ia601604.us.archive.org/18/items/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display/00_SH294_EN-FR-DE-NL-ES-RU-IT-CN_Issue3_display.pdf"
+    }
   },
   "fr": {
-    "related_links": [
-      {
-        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display"
-      }
-    ]
+    "related_links": [],
+    "essential_links": {
+      "manual_url": "https://ia601604.us.archive.org/18/items/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display/00_SH294_EN-FR-DE-NL-ES-RU-IT-CN_Issue3_display.pdf"
+    }
   },
   "ru": {
-    "related_links": [
-      {
-        "related_link_url": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
-        "related_link_description": "Руководство пользователя"
-      }
-    ]
+    "related_links": [],
+    "essential_links": {
+      "manual_url": "https://ia601604.us.archive.org/18/items/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display/00_SH294_EN-FR-DE-NL-ES-RU-IT-CN_Issue3_display.pdf"
+    }
   }
 }
