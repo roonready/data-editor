@@ -136,9 +136,9 @@ collections:
             i18n: false
             value_field: "{{slug}}"
             display_fields:
-              - color_title
+              - title
             search_fields:
-              - color_title
+              - title
           - label: Distinctive feature
             name: feature
             widget: string
@@ -222,10 +222,9 @@ collections:
     create: true
     publish: true
     delete: false
-    summary: "{{color_title}}"
     fields:
       - label: Title
-        name: color_title
+        name: title
         widget: string
         required: false
         i18n: true
