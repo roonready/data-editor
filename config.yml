@@ -222,6 +222,7 @@ collections:
     create: true
     publish: true
     delete: false
+    summary: color_title
     fields:
       - label: Title
         name: color_title
