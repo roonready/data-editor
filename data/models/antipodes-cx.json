@@ -40,7 +40,8 @@
     ],
     "variants": [
       {
-        "color": "black"
+        "color": "black",
+        "offers": []
       }
     ]
   },
