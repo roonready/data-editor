@@ -26,7 +26,12 @@
       "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm",
       "manual_url": "https://ia601604.us.archive.org/18/items/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display/00_SH294_EN-FR-DE-NL-ES-RU-IT-CN_Issue3_display.pdf"
     },
-    "related_links": []
+    "related_links": [
+      {
+        "related_link_url": "https://www.hifi.blog/arcam-solo-uno-wireless-hifi-system-review/",
+        "related_link_description": "Arcam Solo Uno Wireless HiFi System Review."
+      }
+    ]
   },
   "de": {
     "related_links": [],
