@@ -68,7 +68,7 @@ collections:
         value_type: int
         min: 2010
         max: 2030
-      - label: Manufaturer's recommended price (USD)
+      - label: Manufaturer's recommended price (USD - or converted to USD)
         name: mrp
         widget: number
         required: false
@@ -85,40 +85,25 @@ collections:
         i18n: true
         widget: markdown
         required: false
-      - label: Datasource and other proof links
-        name: dsl
-        widget: list
-        required: false
-        fields:
-          - label: Link description
-            name: linkdesc
-            widget: string
-            required: false
-            i18n: true
-          - label: URL
-            name: linkurl
-            required: false
-            widget: string
-            i18n: true
 
-      - label: Manufaturer's  website links (for selected language)
-        name: mwl
+      - label: essential links (for selected language)
+        name: essential_links
         widget: object
         required: false
         i18n: true
         fields:
           - label: Product Page URL
-            name: ppl
+            name: manufacturers_site_product_page_url
             widget: string
             i18n: true
             required: false
-          - label: User's support page URL
-            name: uspl
+          - label: User's manual  URL
+            name: manual_url
             widget: string
             i18n: true
             required: false
       - label: Related links (reviews etc.) (for selected language)
-        name: rl
+        name: related_links
         widget: list
         i18n: true
         required: false
@@ -139,6 +124,10 @@ collections:
         required: false
         i18n: false
         fields:
+          - label: Image
+            name: variant_image
+            widget: image
+            required: false
           - label: Color
             name: color
             widget: relation
@@ -147,9 +136,9 @@ collections:
             i18n: false
             value_field: "{{slug}}"
             display_fields:
-              - title
+              - color_title
             search_fields:
-              - title
+              - color_title
           - label: Distinctive feature
             name: feature
             widget: string
@@ -168,14 +157,34 @@ collections:
                 collection: markets
                 value_field: "{{slug}}"
                 display_fields:
-                  - title
+                  - market_title
                 search_fields:
-                  - title
+                  - market_title
                 multiple: true
               - label: URL
                 name: url
                 required: false
                 widget: string
+      - label: Datasource and other proof links (for editor's internal use)
+        name: datasource_link
+        widget: list
+        required: false
+        fields:
+          - label: Link description
+            name: linkdesc
+            widget: string
+            required: false
+            i18n: true
+          - label: URL
+            name: linkurl
+            required: false
+            widget: string
+            i18n: false
+      - label: Editor's comments
+        name: editors_comments
+        i18n: false
+        widget: text
+        required: false
 
   - label: Brands
     name: brands
@@ -215,7 +224,7 @@ collections:
     delete: false
     fields:
       - label: Title
-        name: title
+        name: color_title
         widget: string
         required: false
         i18n: true
@@ -229,7 +238,7 @@ collections:
     delete: false
     fields:
       - label: Title
-        name: title
+        name: market_title
         widget: string
         required: false
         i18n: true

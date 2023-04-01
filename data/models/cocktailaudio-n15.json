@@ -1,1 +1,24 @@
-{"en":{"image":"/img/partners-cocktailaudio_n15.png","title":"N15","brand":"cocktailaudio","Input":["Ethernet","Wi-Fi"],"type":"5CCVm750RvBKZJKUr9MAYX","imagecollection":[null],"yta":2017,"mrp":899,"remark":"Requires optional Wi-Fi USB Dongle ","desc":"[p](https://diigo.com/0hnqyk)\n[y](https://monosnap.com/file/2p1v3Z8nZV682CNsawRr5UgBIAZIBV)\n[n](https://diigo.com/0hnra7)","yamodel":1724725359,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-cocktailaudio_n15.png",
+        "title": "N15",
+        "brand": "cocktailaudio",
+        "Input": [
+            "Ethernet",
+            "Wi-Fi"
+        ],
+        "type": "5CCVm750RvBKZJKUr9MAYX",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2017,
+        "mrp": 899,
+        "remark": "Requires optional Wi-Fi USB Dongle ",
+        "desc": "[p](https://diigo.com/0hnqyk)\n[y](https://monosnap.com/file/2p1v3Z8nZV682CNsawRr5UgBIAZIBV)\n[n](https://diigo.com/0hnra7)",
+        "yamodel": 1724725359,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

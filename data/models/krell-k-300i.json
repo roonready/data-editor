@@ -1,1 +1,23 @@
-{"en":{"image":"/img/partners-krell_k300i.png","title":"K-300i","brand":"krell","Input":["Ethernet"],"type":"5XTqvTh3OheVRPl1XYUIKQ","imagecollection":[null],"yta":2019,"mrp":8000,"remark":null,"desc":"[fn](https://diigo.com/0i2tsd)\n[p](https://diigo.com/0i2tu4)\n[y](https://diigo.com/0i2tvo)\n","yamodel":372045094,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-krell_k300i.png",
+        "title": "K-300i",
+        "brand": "krell",
+        "Input": [
+            "Ethernet"
+        ],
+        "type": "5XTqvTh3OheVRPl1XYUIKQ",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2019,
+        "mrp": 8000,
+        "remark": null,
+        "desc": "[fn](https://diigo.com/0i2tsd)\n[p](https://diigo.com/0i2tu4)\n[y](https://diigo.com/0i2tvo)\n",
+        "yamodel": 372045094,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

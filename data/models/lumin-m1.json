@@ -1,1 +1,23 @@
-{"en":{"image":"/img/partners-lumin_m1.png","title":"M1","brand":"lumin","Input":["Ethernet"],"type":"5XTqvTh3OheVRPl1XYUIKQ","imagecollection":[null],"yta":2016,"mrp":1990,"remark":null,"desc":"[fn](https://diigo.com/0i3rpi)\n[yp](https://diigo.com/0i3rqq)","yamodel":13577503,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-lumin_m1.png",
+        "title": "M1",
+        "brand": "lumin",
+        "Input": [
+            "Ethernet"
+        ],
+        "type": "5XTqvTh3OheVRPl1XYUIKQ",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2016,
+        "mrp": 1990,
+        "remark": null,
+        "desc": "[fn](https://diigo.com/0i3rpi)\n[yp](https://diigo.com/0i3rqq)",
+        "yamodel": 13577503,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

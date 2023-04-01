@@ -16,16 +16,16 @@
     "remark": null,
     "desc": "\n\n\n",
     "yamodel": null,
-    "dsl": [
+    "datasource_link": [
       {
         "linkurl": "https://monosnap.com/file/K5mBmKQLCd6myI4uRBOMgVEP9e4kW0",
         "linkdesc": "year price"
       }
     ],
-    "mwl": {
-      "ppl": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm"
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,accessories,accessories,solouno.htm"
     },
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
         "linkdesc": "Manual"
@@ -33,7 +33,7 @@
     ]
   },
   "de": {
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
         "linkdesc": "HANDBOOK"
@@ -41,14 +41,14 @@
     ]
   },
   "fr": {
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display"
       }
     ]
   },
   "ru": {
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://archive.org/details/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display",
         "linkdesc": "Руководство пользователя"

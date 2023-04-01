@@ -1,1 +1,28 @@
-{"en":{"image":"/img/partners-auralic_polaris.png","title":"POLARIS","brand":"auralic","Input":["Ethernet","Wi-Fi"],"type":"5XTqvTh3OheVRPl1XYUIKQ","imagecollection":[null],"yta":2016,"mrp":3799,"remark":null,"desc":"[fn](https://1drv.ms/b/s!AkPnUix5zs-LgflacDVsP628uUK0TA?e=N5mDei)\n[py](https://diigo.com/0hrejy)","yamodel":662906862,"dsl":[{"linkurl":"https://support.auralic.com/hc/en-us/categories/204476248-AURALiC-POLARIS"}]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-auralic_polaris.png",
+        "title": "POLARIS",
+        "brand": "auralic",
+        "Input": [
+            "Ethernet",
+            "Wi-Fi"
+        ],
+        "type": "5XTqvTh3OheVRPl1XYUIKQ",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2016,
+        "mrp": 3799,
+        "remark": null,
+        "desc": "[fn](https://1drv.ms/b/s!AkPnUix5zs-LgflacDVsP628uUK0TA?e=N5mDei)\n[py](https://diigo.com/0hrejy)",
+        "yamodel": 662906862,
+        "datasource_link": [
+            {
+                "linkurl": "https://support.auralic.com/hc/en-us/categories/204476248-AURALiC-POLARIS"
+            }
+        ]
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

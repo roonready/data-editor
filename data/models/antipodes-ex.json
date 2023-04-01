@@ -15,7 +15,7 @@
     "remark": null,
     "desc": "\n\n\n\n\n\n\n",
     "yamodel": null,
-    "dsl": [
+    "datasource_link": [
       {
         "linkurl": "https://antipodes.audio/antipodes-ex.php"
       },
@@ -47,8 +47,8 @@
         "linkurl": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
       }
     ],
-    "mwl": {
-      "ppl": "https://web.archive.org/web/20211021014630/https://antipodes.audio/antipodes-ex.php"
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://web.archive.org/web/20211021014630/https://antipodes.audio/antipodes-ex.php"
     }
   },
   "de": {},

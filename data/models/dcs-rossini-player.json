@@ -1,1 +1,23 @@
-{"en":{"image":"/img/partners-dcs_rossini_player.png","title":"Rossini Player","brand":"dcs","Input":["Ethernet"],"type":"5CCVm750RvBKZJKUr9MAYX","imagecollection":[null],"yta":2015,"mrp":28499,"remark":null,"desc":"[y](https://diigo.com/0hy7hw)\n[fn](https://diigo.com/0hy7i2)\n[p](https://diigo.com/0hy7ja)","yamodel":13199847,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-dcs_rossini_player.png",
+        "title": "Rossini Player",
+        "brand": "dcs",
+        "Input": [
+            "Ethernet"
+        ],
+        "type": "5CCVm750RvBKZJKUr9MAYX",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2015,
+        "mrp": 28499,
+        "remark": null,
+        "desc": "[y](https://diigo.com/0hy7hw)\n[fn](https://diigo.com/0hy7i2)\n[p](https://diigo.com/0hy7ja)",
+        "yamodel": 13199847,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

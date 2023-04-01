@@ -16,11 +16,11 @@
     "remark": null,
     "desc": "\n\n\n",
     "yamodel": 664721238,
-    "dsl": [],
-    "mwl": {
-      "ppl": "https://web.archive.org/web/20210921011539/https://us.auralic.com/products/altair-g1?variant=34539937300648"
+    "datasource_link": [],
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://web.archive.org/web/20210921011539/https://us.auralic.com/products/altair-g1?variant=34539937300648"
     },
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://hometheaterhifi.com/press-releases/auralic-debuts-new-altair-g1-digital-audio-streamer-at-munich-high-end-2019/"
       }

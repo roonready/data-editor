@@ -1,1 +1,23 @@
-{"en":{"image":"/img/partners-lumin_d2.png","title":"T1","brand":"lumin","Input":["Ethernet"],"type":"5CCVm750RvBKZJKUr9MAYX","imagecollection":[null],"yta":2014,"mrp":5000,"remark":null,"desc":"[fn](https://diigo.com/0i3rwd)\n[y](https://diigo.com/0i3hb6)\n[p](https://diigo.com/0i3s4g)","yamodel":13577500,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-lumin_d2.png",
+        "title": "T1",
+        "brand": "lumin",
+        "Input": [
+            "Ethernet"
+        ],
+        "type": "5CCVm750RvBKZJKUr9MAYX",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2014,
+        "mrp": 5000,
+        "remark": null,
+        "desc": "[fn](https://diigo.com/0i3rwd)\n[y](https://diigo.com/0i3hb6)\n[p](https://diigo.com/0i3s4g)",
+        "yamodel": 13577500,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

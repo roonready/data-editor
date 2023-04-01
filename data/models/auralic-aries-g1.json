@@ -1,1 +1,24 @@
-{"en":{"image":"/img/partners-auralic_ariesg1.png","title":"ARIES G1","brand":"auralic","Input":["Ethernet","Wi-Fi"],"type":"4Snrh4Ivh75AoSKSxdgDJr","imagecollection":[null],"yta":2018,"mrp":2199,"remark":null,"desc":"[py](https://diigo.com/0hres9)\n[nf](https://diigo.com/0hreta)","yamodel":663664792,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-auralic_ariesg1.png",
+        "title": "ARIES G1",
+        "brand": "auralic",
+        "Input": [
+            "Ethernet",
+            "Wi-Fi"
+        ],
+        "type": "4Snrh4Ivh75AoSKSxdgDJr",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2018,
+        "mrp": 2199,
+        "remark": null,
+        "desc": "[py](https://diigo.com/0hres9)\n[nf](https://diigo.com/0hreta)",
+        "yamodel": 663664792,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

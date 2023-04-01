@@ -1,1 +1,23 @@
-{"en":{"image":"/img/partners-lumin_a1.png","title":"A1","brand":"lumin","Input":["Ethernet"],"type":"5CCVm750RvBKZJKUr9MAYX","imagecollection":[null],"yta":2013,"mrp":7200,"remark":null,"desc":"[fn](https://diigo.com/0i3h9c)\n[y](https://diigo.com/0i3hb6)\n[yp](https://diigo.com/0i3hbr)","yamodel":12882213,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-lumin_a1.png",
+        "title": "A1",
+        "brand": "lumin",
+        "Input": [
+            "Ethernet"
+        ],
+        "type": "5CCVm750RvBKZJKUr9MAYX",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2013,
+        "mrp": 7200,
+        "remark": null,
+        "desc": "[fn](https://diigo.com/0i3h9c)\n[y](https://diigo.com/0i3hb6)\n[yp](https://diigo.com/0i3hbr)",
+        "yamodel": 12882213,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

@@ -1,1 +1,24 @@
-{"en":{"image":"/img/partners-bluesound_node2.png","title":"NODE 2i","brand":"bluesound","Input":["Wi-Fi","Ethernet"],"type":"5CCVm750RvBKZJKUr9MAYX","imagecollection":[null],"yta":2018,"mrp":549,"remark":null,"desc":"[y](https://diigo.com/0hrnh3)\n[pfn](https://diigo.com/0ht41l)","yamodel":449230192,"dsl":[]},"de":{},"fr":{},"ru":{}}
+{
+    "en": {
+        "image": "/img/partners-bluesound_node2.png",
+        "title": "NODE 2i",
+        "brand": "bluesound",
+        "Input": [
+            "Wi-Fi",
+            "Ethernet"
+        ],
+        "type": "5CCVm750RvBKZJKUr9MAYX",
+        "imagecollection": [
+            null
+        ],
+        "yta": 2018,
+        "mrp": 549,
+        "remark": null,
+        "desc": "[y](https://diigo.com/0hrnh3)\n[pfn](https://diigo.com/0ht41l)",
+        "yamodel": 449230192,
+        "datasource_link": []
+    },
+    "de": {},
+    "fr": {},
+    "ru": {}
+}

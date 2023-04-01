@@ -15,7 +15,7 @@
     "remark": null,
     "desc": "\n\n\n",
     "yamodel": null,
-    "dsl": [
+    "datasource_link": [
       {
         "linkurl": "https://web.archive.org/web/20201201205236/https://antipodes.audio/antipodes-technology.php"
       },
@@ -23,10 +23,10 @@
         "linkurl": "https://web.archive.org/web/20210805180800/https://antipodes.audio/antipodes-cx.php"
       }
     ],
-    "mwl": {
-      "ppl": "https://antipodes.audio/legacy/"
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://antipodes.audio/legacy/"
     },
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://6moons.com/audioreview_articles/antipodes/",
         "linkdesc": "6moons review"
@@ -36,7 +36,7 @@
   "de": {},
   "fr": {},
   "ru": {
-    "rl": [
+    "related_links": [
       {
         "linkurl": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
         "linkdesc": "Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
