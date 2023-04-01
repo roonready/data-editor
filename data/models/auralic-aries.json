@@ -1,28 +1,28 @@
 {
-    "en": {
-        "image": "/img/partners-auralic_aries.png",
-        "title": "ARIES",
-        "brand": "auralic",
-        "Input": [
-            "Wi-Fi",
-            "Ethernet"
-        ],
-        "type": "4Snrh4Ivh75AoSKSxdgDJr",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2014,
-        "mrp": 1599,
-        "remark": "USB OUTPUT for �DAC that do not require\na driver for Mac OS X",
-        "desc": "[p](https://diigo.com/0hnl6x)\n[fn](https://diigo.com/0hnl7a)\n[y](https://diigo.com/0hnlax)\n[n](https://diigo.com/0hnlek)\n",
-        "yamodel": 1711544607,
-        "datasource_link": [
-            {
-                "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/200356617-AURALiC-ARIES-ARIES-LE"
-            }
-        ]
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/partners-auralic_aries.png",
+    "title": "ARIES",
+    "brand": "auralic",
+    "Input": [
+      "Wi-Fi",
+      "Ethernet"
+    ],
+    "type": "4Snrh4Ivh75AoSKSxdgDJr",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2014,
+    "mrp": 1599,
+    "remark": "USB OUTPUT for �DAC that do not require\na driver for Mac OS X",
+    "desc": "[p](https://diigo.com/0hnl6x)\n[fn](https://diigo.com/0hnl7a)\n[y](https://diigo.com/0hnlax)\n[n](https://diigo.com/0hnlek)\n\n\n\n\n",
+    "yamodel": 1711544607,
+    "datasource_link": [
+      {
+        "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/200356617-AURALiC-ARIES-ARIES-LE"
+      }
+    ]
+  },
+  "de": {},
+  "fr": {},
+  "ru": {}
 }
