@@ -10,7 +10,7 @@
     "imagecollection": [
       null
     ],
-    "yta": 2017,
+    "yta": 2018,
     "mrp": 5400,
     "remark": null,
     "desc": "\n\n\n\n\n\n\n",
@@ -57,5 +57,12 @@
   },
   "de": {},
   "fr": {},
-  "ru": {}
+  "ru": {
+    "related_links": [
+      {
+        "related_link_url": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
+        "related_link_description": "Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
+      }
+    ]
+  }
 }
