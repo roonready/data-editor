@@ -27,10 +27,6 @@ collections:
         field: brand
         direction: Ascending
     fields:
-      - label: Title
-        name: title
-        widget: string
-        required: true
       - label: Brand
         name: brand
         required: true
@@ -41,6 +37,10 @@ collections:
           - title
         search_fields:
           - title
+      - label: Model name
+        name: title
+        widget: string
+        required: true
       - label: Input
         name: Input
         required: false
@@ -157,9 +157,9 @@ collections:
                 collection: markets
                 value_field: "{{slug}}"
                 display_fields:
-                  - market_title
+                  - title
                 search_fields:
-                  - market_title
+                  - title
                 multiple: true
               - label: URL
                 name: url
@@ -239,7 +239,7 @@ collections:
     delete: false
     fields:
       - label: Title
-        name: market_title
+        name: title
         widget: string
         required: false
         i18n: true
