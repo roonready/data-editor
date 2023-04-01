@@ -38,7 +38,11 @@
         "related_link_description": "Audio Ramblings and the Antipodes CX"
       }
     ],
-    "variants": []
+    "variants": [
+      {
+        "color": "black"
+      }
+    ]
   },
   "de": {},
   "fr": {},
