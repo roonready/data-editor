@@ -10,7 +10,7 @@
     "imagecollection": [
       null
     ],
-    "yta": 2017,
+    "yta": 2016,
     "mrp": 8700,
     "remark": null,
     "desc": "\n\n\n",
@@ -41,10 +41,12 @@
     "variants": [
       {
         "color": "black",
-        "offers": []
+        "offers": [],
+        "variant_image": "/img/Antipodes_CX%281%29.jpg"
       },
       {
-        "color": "silver"
+        "color": "silver",
+        "variant_image": "/img/14.jpg"
       }
     ]
   },
