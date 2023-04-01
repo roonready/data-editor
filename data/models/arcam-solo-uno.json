@@ -31,6 +31,12 @@
         "related_link_url": "https://www.hifi.blog/arcam-solo-uno-wireless-hifi-system-review/",
         "related_link_description": "Arcam Solo Uno Wireless HiFi System Review."
       }
+    ],
+    "variants": [
+      {
+        "variant_image": "/img/arcam-solo-uno.jpg",
+        "color": "black-silver"
+      }
     ]
   },
   "de": {
