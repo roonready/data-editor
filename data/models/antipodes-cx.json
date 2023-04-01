@@ -12,7 +12,7 @@
     ],
     "yta": 2018,
     "mrp": 8700,
-    "remark": null,
+    "remark": "Outputs: Direct Ethernet, USB\npossible as Roon Server ",
     "desc": "\n\n\n",
     "yamodel": null,
     "datasource_link": [
@@ -41,7 +41,14 @@
     "variants": [
       {
         "color": "black",
-        "offers": [],
+        "offers": [
+          {
+            "markets": [
+              "uk"
+            ],
+            "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
+          }
+        ],
         "variant_image": "/img/Antipodes_CX%281%29.jpg"
       },
       {
