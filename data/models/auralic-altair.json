@@ -29,6 +29,16 @@
         "related_link_url": "https://onedrive.live.com/?authkey=%21AMsi2UuUYD11al8&id=8BCFCE792C52E743%2131961&cid=8BCFCE792C52E743&parId=root&parQt=sharedby&o=OneUp",
         "related_link_description": "Manual"
       }
+    ],
+    "variants": [
+      {
+        "variant_image": "/img/auralic-altair-black.jpg",
+        "color": "black"
+      },
+      {
+        "variant_image": "/img/auralic-alatair-silver.jpg",
+        "color": "silver"
+      }
     ]
   },
   "de": {},
