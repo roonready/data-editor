@@ -25,7 +25,12 @@
     "essential_links": {
       "manufacturers_site_product_page_url": "https://web.archive.org/web/20190601033818/https://us.auralic.com/products/aries-g2"
     },
-    "related_links": [],
+    "related_links": [
+      {
+        "related_link_url": "https://web.archive.org/web/20170707004550/https://www.audiostream.com/content/auralic-g2-series",
+        "related_link_description": "Auralic G2 Series"
+      }
+    ],
     "variants": [
       {
         "variant_image": "/img/auralic-aries-g2-black.webp",
