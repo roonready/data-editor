@@ -1,24 +1,33 @@
 {
-    "en": {
-        "image": "/img/partners-auralic_ariesg1.png",
-        "title": "ARIES G1",
-        "brand": "auralic",
-        "Input": [
-            "Ethernet",
-            "Wi-Fi"
-        ],
-        "type": "4Snrh4Ivh75AoSKSxdgDJr",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2018,
-        "mrp": 2199,
-        "remark": null,
-        "desc": "[py](https://diigo.com/0hres9)\n[nf](https://diigo.com/0hreta)",
-        "yamodel": 663664792,
-        "datasource_link": []
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/partners-auralic_ariesg1.png",
+    "title": "ARIES G1",
+    "brand": "auralic",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "type": "4Snrh4Ivh75AoSKSxdgDJr",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2018,
+    "mrp": 2199,
+    "remark": null,
+    "desc": "\n\n\n",
+    "yamodel": 663664792,
+    "datasource_link": [],
+    "related_links": [
+      {
+        "related_link_url": "https://community.auralic.com/t/auralic-modernizes-their-original-lineup-with-aries-g1-vega-g1/1720",
+        "related_link_description": "AURALiC Modernizes their Original Lineup with ARIES G1 & VEGA G1"
+      }
+    ],
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://web.archive.org/web/20211022134753/https://us.auralic.com/products/aries-g1?variant=34539872387240"
+    }
+  },
+  "de": {},
+  "fr": {},
+  "ru": {}
 }
