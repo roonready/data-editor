@@ -1,27 +1,33 @@
 {
-    "en": {
-        "image": "/img/AURALiC VEGA2.webp",
-        "title": "VEGA G2",
-        "brand": "auralic",
-        "Input": [
-            "Ethernet"
-        ],
-        "type": "5CCVm750RvBKZJKUr9MAYX",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2017,
-        "mrp": 5699,
-        "remark": null,
-        "desc": null,
-        "yamodel": null,
-        "datasource_link": [
-            {
-                "datasource_link_url": "https://us.auralic.com/products/vega-g2?variant=34539909480616"
-            }
-        ]
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/AURALiC VEGA2.webp",
+    "title": "VEGA G2",
+    "brand": "auralic",
+    "Input": [
+      "Ethernet"
+    ],
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2017,
+    "mrp": 5699,
+    "remark": null,
+    "desc": null,
+    "yamodel": null,
+    "datasource_link": [
+      {
+        "datasource_link_url": "https://us.auralic.com/products/vega-g2?variant=34539909480616"
+      }
+    ],
+    "variants": [
+      {
+        "variant_image": "/img/AURALiC VEGA G2.webp",
+        "color": "black"
+      }
+    ]
+  },
+  "de": {},
+  "fr": {},
+  "ru": {}
 }
