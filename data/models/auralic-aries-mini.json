@@ -1,28 +1,38 @@
 {
-    "en": {
-        "image": "/img/aurc.jpg",
-        "title": "ARIES MINI",
-        "brand": "auralic",
-        "Input": [
-            "Ethernet",
-            "Wi-Fi"
-        ],
-        "type": "5CCVm750RvBKZJKUr9MAYX",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2015,
-        "mrp": 399,
-        "remark": null,
-        "desc": "[yp](https://diigo.com/0hrdv0)\n[fn](https://diigo.com/0hrdxh)",
-        "yamodel": 1711533337,
-        "datasource_link": [
-            {
-                "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/200358258-AURALiC-ARIES-MINI"
-            }
-        ]
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/aurc.jpg",
+    "title": "ARIES MINI",
+    "brand": "auralic",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2015,
+    "mrp": 399,
+    "remark": null,
+    "desc": "[yp](https://diigo.com/0hrdv0)\n[fn](https://diigo.com/0hrdxh)",
+    "yamodel": 1711533337,
+    "datasource_link": [
+      {
+        "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/200358258-AURALiC-ARIES-MINI"
+      }
+    ],
+    "variants": [
+      {
+        "variant_image": "/img/auralic aries min white.webp",
+        "color": "white"
+      },
+      {
+        "variant_image": "/img/auralic aries min black.webp",
+        "color": "black"
+      }
+    ]
+  },
+  "de": {},
+  "fr": {},
+  "ru": {}
 }
