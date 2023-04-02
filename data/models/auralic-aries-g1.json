@@ -25,7 +25,13 @@
     ],
     "essential_links": {
       "manufacturers_site_product_page_url": "https://web.archive.org/web/20211022134753/https://us.auralic.com/products/aries-g1?variant=34539872387240"
-    }
+    },
+    "variants": [
+      {
+        "color": "black",
+        "variant_image": "/img/auralis-aries-g1-black.webp"
+      }
+    ]
   },
   "de": {},
   "fr": {},
