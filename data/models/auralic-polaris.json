@@ -1,28 +1,41 @@
 {
-    "en": {
-        "image": "/img/partners-auralic_polaris.png",
-        "title": "POLARIS",
-        "brand": "auralic",
-        "Input": [
-            "Ethernet",
-            "Wi-Fi"
-        ],
-        "type": "5XTqvTh3OheVRPl1XYUIKQ",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2016,
-        "mrp": 3799,
-        "remark": null,
-        "desc": "[fn](https://1drv.ms/b/s!AkPnUix5zs-LgflacDVsP628uUK0TA?e=N5mDei)\n[py](https://diigo.com/0hrejy)",
-        "yamodel": 662906862,
-        "datasource_link": [
-            {
-                "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/204476248-AURALiC-POLARIS"
-            }
-        ]
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/partners-auralic_polaris.png",
+    "title": "POLARIS",
+    "brand": "auralic",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "type": "5XTqvTh3OheVRPl1XYUIKQ",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2016,
+    "mrp": 3799,
+    "remark": null,
+    "desc": "[fn](https://1drv.ms/b/s!AkPnUix5zs-LgflacDVsP628uUK0TA?e=N5mDei)\n[py](https://diigo.com/0hrejy)\n",
+    "yamodel": 662906862,
+    "datasource_link": [
+      {
+        "datasource_link_url": "https://support.auralic.com/hc/en-us/categories/204476248-AURALiC-POLARIS"
+      }
+    ],
+    "variants": [
+      {
+        "variant_image": "/img/auralic polaric black.webp",
+        "color": "black"
+      },
+      {
+        "variant_image": "/img/auralic polaris white.webp",
+        "color": "silver"
+      }
+    ],
+    "essential_links": {
+      "manual_url": "https://archive.org/download/polaris-usersguide-r-1-2/POLARIS_USERSGUIDE_R1%20%282%29.pdf"
+    }
+  },
+  "de": {},
+  "fr": {},
+  "ru": {}
 }
