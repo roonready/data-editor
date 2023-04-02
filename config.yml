@@ -61,6 +61,9 @@ collections:
         name: image
         widget: image
         required: false
+        media_library:
+          config:
+          max_file_size: 10000
       - label: Year to announce
         name: yta
         required: false
@@ -128,6 +131,9 @@ collections:
             name: variant_image
             widget: image
             required: false
+            media_library:
+            config:
+            max_file_size: 30000
           - label: Color
             name: color
             widget: relation
