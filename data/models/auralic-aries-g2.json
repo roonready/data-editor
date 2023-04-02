@@ -25,9 +25,18 @@
     "essential_links": {
       "manufacturers_site_product_page_url": "https://web.archive.org/web/20190601033818/https://us.auralic.com/products/aries-g2"
     },
-    "related_links": [
+    "related_links": [],
+    "variants": [
       {
-        "datasource_link_url": "https://www.audiostream.com/content/auralic-g2-series"
+        "variant_image": "/img/auralic-aries-g2-black.webp",
+        "color": "black",
+        "feature": "NO STORAGE",
+        "offers": []
+      },
+      {
+        "variant_image": "/img/auralic-aries-g2-black.webp",
+        "color": "black",
+        "feature": "2TB SSD"
       }
     ]
   },
