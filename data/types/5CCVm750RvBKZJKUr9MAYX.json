@@ -2,8 +2,13 @@
   "en": {
     "title": "DAC"
   },
+  "de": {
+    "title": "DAC"
+  },
+  "fr": {
+    "title": "DAC"
+  },
   "ru": {
     "title": "ЦАП"
-  },
-  "uk": {}
+  }
 }
