@@ -1,9 +1,14 @@
 {
   "en": {
-    "title": "AMP"
+    "title": "Integrated AMP"
+  },
+  "de": {
+    "title": "Integrierter VERSTÄRKER"
+  },
+  "fr": {
+    "title": "AMPLI INTÉGRÉ"
   },
   "ru": {
-    "title": "Усилитель"
-  },
-  "uk": {}
+    "title": "Интегральный усилитель"
+  }
 }
