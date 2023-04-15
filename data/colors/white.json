@@ -1,8 +1,14 @@
 {
   "en": {
-    "title": "White"
+    "title": "white"
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "title": "weiß"
+  },
+  "fr": {
+    "title": "blanc"
+  },
+  "ru": {
+    "title": "белый"
+  }
 }
