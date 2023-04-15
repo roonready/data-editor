@@ -2,8 +2,13 @@
   "en": {
     "title": "Network bridge"
   },
+  "de": {
+    "title": "Netzwerkbrücke"
+  },
+  "fr": {
+    "title": "Pont réseau"
+  },
   "ru": {
     "title": "Сетевой мост"
-  },
-  "uk": {}
+  }
 }
