@@ -1,8 +1,14 @@
 {
   "en": {
-    "title": "Black & Silver"
+    "title": "black & silver"
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "title": "schwarz & silber"
+  },
+  "fr": {
+    "title": "noir et argent"
+  },
+  "ru": {
+    "title": "черный и серебристый"
+  }
 }
