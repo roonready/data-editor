@@ -1,6 +1,7 @@
 {
   "en": {
-    "title": "Network bridge"
+    "title": "Network bridge",
+    "sortcode": 10
   },
   "de": {
     "title": "Netzwerkbrücke"
