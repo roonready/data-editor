@@ -220,6 +220,10 @@ collections:
         widget: string
         required: true
         i18n: true
+      - label: Custom sortcode
+        name: sortcode
+        widget: "number"
+        value_type: "int"
   - label: Colors
     name: colors
     i18n: true
