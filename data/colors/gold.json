@@ -1,8 +1,14 @@
 {
   "en": {
-    "title": "Gold"
+    "title": "gold"
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "title": "gold"
+  },
+  "fr": {
+    "title": "or"
+  },
+  "ru": {
+    "title": "золотистый"
+  }
 }
