@@ -1,8 +1,14 @@
 {
   "en": {
-    "title": "Black"
+    "title": "black"
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "title": "schwarze"
+  },
+  "fr": {
+    "title": "noire"
+  },
+  "ru": {
+    "title": "черный"
+  }
 }
