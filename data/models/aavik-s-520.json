@@ -1,11 +1,21 @@
 {
   "en": {
     "brand": "aavik",
-    "title": "S-520",
+    "title": "S-580",
     "type": "5CCVm750RvBKZJKUr9MAYX",
-    "image": "/img/aavik-s-520.webp"
+    "image": "/img/aavik-s-520.webp",
+    "Input": "",
+    "essential_links": {
+      "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual.pdf",
+      "manufacturers_site_product_page_url": "https://audiogroupdenmark.com/product/aavik-s-580/"
+    }
   },
-  "de": {},
+  "de": {
+    "Input": "",
+    "essential_links": {
+      "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_d-180_280_580_usermanual_vers02_2021_ger_web.pdf"
+    }
+  },
   "fr": {},
   "ru": {}
 }
