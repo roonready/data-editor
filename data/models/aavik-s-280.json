@@ -3,9 +3,19 @@
     "brand": "aavik",
     "title": "S-280",
     "image": "/img/aavik-s-280.webp",
-    "type": "5CCVm750RvBKZJKUr9MAYX"
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "Input": "",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://audiogroupdenmark.com/product/aavik-s-280/",
+      "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual.pdf"
+    }
   },
-  "de": {},
+  "de": {
+    "Input": "",
+    "essential_links": {
+      "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual_vers02_2021_ger_web1.pdf"
+    }
+  },
   "fr": {},
   "ru": {}
 }
