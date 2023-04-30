@@ -1,6 +1,6 @@
 {
   "en": {
-    "image": "/img/arcam solo uno.webp",
+    "image": "/img/arcam-solo-uno.webp",
     "title": "SOLO UNO",
     "brand": "arcam",
     "Input": [
@@ -43,7 +43,11 @@
     "related_links": [],
     "essential_links": {
       "manual_url": "https://ia601604.us.archive.org/18/items/00-sh-294-en-fr-de-nl-es-ru-it-cn-issue-3-display/00_SH294_EN-FR-DE-NL-ES-RU-IT-CN_Issue3_display.pdf"
-    }
+    },
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
   },
   "fr": {
     "related_links": [],
