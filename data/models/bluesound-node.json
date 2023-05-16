@@ -1,6 +1,6 @@
 {
   "en": {
-    "image": "/img/partners-bluesound_powernode.png",
+    "image": "/img/bluesound-node.webp",
     "title": "NODE",
     "brand": "bluesound",
     "Input": [
@@ -19,7 +19,12 @@
     "datasource_link": [],
     "related_links": []
   },
-  "de": {},
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
   "fr": {},
   "ru": {}
 }
