@@ -17,7 +17,22 @@
     "desc": "[yp](https://diigo.com/0hnpe2)\n[nf](https://diigo.com/0hnphy)",
     "yamodel": 12343079,
     "datasource_link": [],
-    "related_links": []
+    "related_links": [],
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://web.archive.org/web/20140713221026/http://www.bluesound.com/products/node/",
+      "manual_url": "https://web.archive.org/web/20140720133629/http://www.bluesound.com/wp_content/uploads/2013/11/NODE_4-8-2014.pdf"
+    },
+    "variants": [
+      {
+        "color": "black-silver",
+        "variant_image": "/img/bluesound-node-n100-black.webp",
+        "offers": []
+      },
+      {
+        "color": "white",
+        "variant_image": "/img/bluesound-node-n100-white.webp"
+      }
+    ]
   },
   "de": {
     "Input": [
