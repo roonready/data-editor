@@ -11,10 +11,20 @@
     "essential_links": {
       "manufacturers_site_product_page_url": "https://audiogroupdenmark.com/product/aavik-s-180/",
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual.pdf"
-    }
+    },
+    "related_links": [
+      {
+        "related_link_url": "https://audiogroupdenmark.com/wp-content/uploads/2022/03/AavikS180_ChristianWenger_AVGuide_sep2021_EN.pdf",
+        "related_link_description": "avguide.ch"
+      }
+    ],
+    "yta": 2021,
+    "mrp": 6000
   },
   "de": {
-    "Input": "",
+    "Input": [
+      "Ethernet"
+    ],
     "essential_links": {
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual_vers02_2021_ger_web1.pdf"
     }
