@@ -4,7 +4,7 @@
     "title": "S-180",
     "image": "/img/aavik-s-180.webp",
     "type": "5CCVm750RvBKZJKUr9MAYX",
-    "editors_comments": "webp",
+    "editors_comments": "",
     "Input": [
       "Ethernet"
     ],
@@ -19,7 +19,13 @@
       }
     ],
     "yta": 2021,
-    "mrp": 6000
+    "mrp": 6000,
+    "variants": [
+      {
+        "color": "black",
+        "variant_image": "/img/aavik-s-180-black.webp"
+      }
+    ]
   },
   "de": {
     "Input": [
