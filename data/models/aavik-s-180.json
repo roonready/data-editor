@@ -23,7 +23,15 @@
     "variants": [
       {
         "color": "black",
-        "variant_image": "/img/aavik-s-180-black.webp"
+        "variant_image": "/img/aavik-s-180-black.webp",
+        "offers": [
+          {
+            "markets": [
+              "russia"
+            ],
+            "url": "https://market.yandex.ru/product--setevoi-pleer-aavik-acoustics-s-180/1832668391?sku=101991082267"
+          }
+        ]
       }
     ]
   },
