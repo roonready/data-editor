@@ -1,24 +1,29 @@
 {
-    "en": {
-        "image": "/img/GoldNoteD10.jpg",
-        "title": "DS-10",
-        "brand": "gold-note",
-        "Input": [
-            "Wi-Fi",
-            "Ethernet"
-        ],
-        "type": "5CCVm750RvBKZJKUr9MAYX",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2019,
-        "mrp": 3000,
-        "remark": null,
-        "desc": "[fn](https://diigo.com/0i3r0x)\n[y](https://monosnap.com/direct/ln0pjsweH2dPSZys39DUytnbBSy6zA)\n[p](https://monosnap.com/file/gXo70CnsZLDtj0CIG2FbDdqbLayCvR)",
-        "yamodel": 664692243,
-        "datasource_link": []
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/gold-note-ds-10.webp",
+    "title": "DS-10",
+    "brand": "gold-note",
+    "Input": [
+      "Wi-Fi",
+      "Ethernet"
+    ],
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2019,
+    "mrp": 3000,
+    "remark": null,
+    "desc": "[fn](https://diigo.com/0i3r0x)\n[y](https://monosnap.com/direct/ln0pjsweH2dPSZys39DUytnbBSy6zA)\n[p](https://monosnap.com/file/gXo70CnsZLDtj0CIG2FbDdqbLayCvR)",
+    "yamodel": 664692243,
+    "datasource_link": []
+  },
+  "de": {
+    "Input": [
+      "Wi-Fi",
+      "Ethernet"
+    ]
+  },
+  "fr": {},
+  "ru": {}
 }
