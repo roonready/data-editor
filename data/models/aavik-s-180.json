@@ -5,7 +5,9 @@
     "image": "/img/aavik-s-180.webp",
     "type": "5CCVm750RvBKZJKUr9MAYX",
     "editors_comments": "webp",
-    "Input": "",
+    "Input": [
+      "Ethernet"
+    ],
     "essential_links": {
       "manufacturers_site_product_page_url": "https://audiogroupdenmark.com/product/aavik-s-180/",
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual.pdf"
