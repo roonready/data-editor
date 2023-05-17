@@ -4,7 +4,9 @@
     "title": "S-580",
     "type": "5CCVm750RvBKZJKUr9MAYX",
     "image": "/img/aavik-s-520.webp",
-    "Input": "",
+    "Input": [
+      "Ethernet"
+    ],
     "essential_links": {
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual.pdf",
       "manufacturers_site_product_page_url": "https://audiogroupdenmark.com/product/aavik-s-580/"
