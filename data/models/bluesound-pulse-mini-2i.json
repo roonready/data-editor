@@ -14,7 +14,7 @@
     "yta": 2018,
     "mrp": 499,
     "remark": null,
-    "desc": "[y](https://diigo.com/0hrnh3)\n[pfn](https://diigo.com/0ht3dw)\n",
+    "desc": "\n\n\n",
     "yamodel": 441852088,
     "datasource_link": [],
     "related_links": [
@@ -45,7 +45,11 @@
         "color": "white",
         "variant_image": "/img/bluesound-pulse-mini-2i-white.webp"
       }
-    ]
+    ],
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.bluesound.com/products/pulse-mini/",
+      "manual_url": "https://content-bluesound-com.s3.amazonaws.com/uploads/2018/08/PULSE_Mini_2i_Owners_Manual_Sept2018-1.pdf"
+    }
   },
   "de": {
     "Input": [
