@@ -1,24 +1,58 @@
 {
-    "en": {
-        "image": "/img/partners-bluesound_pulsemini.png",
-        "title": "PULSE MINI 2i",
-        "brand": "bluesound",
-        "Input": [
-            "Wi-Fi",
-            "Ethernet"
-        ],
-        "type": "6feiIcA7UiAxNduYSjYSNo",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2018,
-        "mrp": 499,
-        "remark": null,
-        "desc": "[y](https://diigo.com/0hrnh3)\n[pfn](https://diigo.com/0ht3dw)",
-        "yamodel": 441852088,
-        "datasource_link": []
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/partners-bluesound_pulsemini.png",
+    "title": "PULSE MINI 2i",
+    "brand": "bluesound",
+    "Input": [
+      "Wi-Fi",
+      "Ethernet"
+    ],
+    "type": "6feiIcA7UiAxNduYSjYSNo",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2018,
+    "mrp": 499,
+    "remark": null,
+    "desc": "[y](https://diigo.com/0hrnh3)\n[pfn](https://diigo.com/0ht3dw)\n",
+    "yamodel": 441852088,
+    "datasource_link": [],
+    "related_links": [
+      {
+        "related_link_url": "https://www.whathifi.com/news/bluesound-launches-seven-generation-2i-multi-room-products"
+      }
+    ],
+    "variants": [
+      {
+        "color": "black",
+        "variant_image": "/img/bluesound-pulse-mini-2i.webp",
+        "offers": [
+          {
+            "markets": [
+              "russia"
+            ],
+            "url": "https://market.yandex.ru/product--bluesound-pulse-mini-2i-black/101860922034?sku=101860922034"
+          },
+          {
+            "markets": [
+              "russia"
+            ],
+            "url": "https://market.yandex.ru/product--portativnaia-akustika-bluesound-pulse-mini-2i-100-vt/441852088?sku=100640725911"
+          }
+        ]
+      },
+      {
+        "color": "white",
+        "variant_image": "/img/bluesound-pulse-mini-2i-white.webp"
+      }
+    ]
+  },
+  "de": {
+    "Input": [
+      "Wi-Fi",
+      "Ethernet"
+    ]
+  },
+  "fr": {},
+  "ru": {}
 }
