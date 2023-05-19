@@ -1,24 +1,29 @@
 {
-    "en": {
-        "image": "/img/partners-bluesound_powernode.png",
-        "title": "POWERNODE",
-        "brand": "bluesound",
-        "Input": [
-            "Ethernet",
-            "Wi-Fi"
-        ],
-        "type": "5XTqvTh3OheVRPl1XYUIKQ",
-        "imagecollection": [
-            null
-        ],
-        "yta": 2013,
-        "mrp": 699,
-        "remark": null,
-        "desc": "[y](https://diigo.com/0hnpaa)\n[yp](https://diigo.com/0hnpe2)\n[nf](https://diigo.com/0hnpeo)",
-        "yamodel": 12343074,
-        "datasource_link": []
-    },
-    "de": {},
-    "fr": {},
-    "ru": {}
+  "en": {
+    "image": "/img/partners-bluesound_powernode.png",
+    "title": "POWERNODE (N150)",
+    "brand": "bluesound",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "type": "5XTqvTh3OheVRPl1XYUIKQ",
+    "imagecollection": [
+      null
+    ],
+    "yta": 2013,
+    "mrp": 699,
+    "remark": null,
+    "desc": "[y](https://diigo.com/0hnpaa)\n[yp](https://diigo.com/0hnpe2)\n[nf](https://diigo.com/0hnpeo)",
+    "yamodel": 12343074,
+    "datasource_link": []
+  },
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
+  "fr": {},
+  "ru": {}
 }
