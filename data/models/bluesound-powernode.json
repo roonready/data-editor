@@ -16,7 +16,11 @@
     "remark": null,
     "desc": "[y](https://diigo.com/0hnpaa)\n[yp](https://diigo.com/0hnpe2)\n[nf](https://diigo.com/0hnpeo)",
     "yamodel": 12343074,
-    "datasource_link": []
+    "datasource_link": [],
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.bluesound.com/products/powernode-gen1/",
+      "manual_url": "https://content-bluesound-com.s3.amazonaws.com/uploads/2015/03/OOM-POWERNODE-June-18-2014.pdf"
+    }
   },
   "de": {
     "Input": [
