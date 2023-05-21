@@ -2,7 +2,13 @@
   "en": {
     "title": "EU"
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "title": "EU"
+  },
+  "fr": {
+    "title": "UE"
+  },
+  "ru": {
+    "title": "ЕС"
+  }
 }
