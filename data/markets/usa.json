@@ -2,7 +2,13 @@
   "en": {
     "title": "USA"
   },
-  "de": {},
-  "fr": {},
-  "ru": {}
+  "de": {
+    "title": "USA"
+  },
+  "fr": {
+    "title": "États-Unis"
+  },
+  "ru": {
+    "title": "США"
+  }
 }
