@@ -2,8 +2,12 @@
   "en": {
     "title": "Russia"
   },
-  "de": {},
-  "fr": {},
+  "de": {
+    "title": "Russland"
+  },
+  "fr": {
+    "title": "Russie"
+  },
   "ru": {
     "title": "Россия"
   }
