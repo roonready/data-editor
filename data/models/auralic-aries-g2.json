@@ -15,7 +15,6 @@
     "mrp": 3899,
     "remark": null,
     "desc": "\n\n\n",
-    "yamodel": 663481264,
     "datasource_link": [
       {
         "datasource_link_url": "https://support.auralic.com/hc/en-us/articles/115005066494-What-s-the-retail-price-of-ARIES-G2-",
@@ -35,13 +34,21 @@
       {
         "variant_image": "/img/auralic-aries-g2-black.webp",
         "color": "black",
-        "feature": "NO STORAGE",
-        "offers": []
+        "options": [
+          {
+            "feature": "NO STORAGE",
+            "offers": []
+          }
+        ]
       },
       {
         "variant_image": "/img/auralic-aries-g2-black.webp",
         "color": "black",
-        "feature": "2TB SSD"
+        "options": [
+          {
+            "feature": "2TB SSD"
+          }
+        ]
       }
     ]
   },

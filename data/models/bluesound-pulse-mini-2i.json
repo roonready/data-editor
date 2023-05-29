@@ -14,8 +14,6 @@
     "yta": 2018,
     "mrp": 499,
     "remark": null,
-    "desc": "\n\n\n",
-    "yamodel": 441852088,
     "datasource_link": [],
     "related_links": [
       {
@@ -26,18 +24,26 @@
       {
         "color": "black",
         "variant_image": "/img/bluesound-pulse-mini-2i.webp",
-        "offers": [
+        "options": [
           {
-            "markets": [
-              "russia"
-            ],
-            "url": "https://market.yandex.ru/product--bluesound-pulse-mini-2i-black/101860922034?sku=101860922034"
-          },
-          {
-            "markets": [
-              "russia"
-            ],
-            "url": "https://market.yandex.ru/product--portativnaia-akustika-bluesound-pulse-mini-2i-100-vt/441852088?sku=100640725911"
+            "options": [
+              {
+                "offers": [
+                  {
+                    "markets": [
+                      "russia"
+                    ],
+                    "url": "https://market.yandex.ru/product--bluesound-pulse-mini-2i-black/101860922034?sku=101860922034"
+                  },
+                  {
+                    "markets": [
+                      "russia"
+                    ],
+                    "url": "https://market.yandex.ru/product--portativnaia-akustika-bluesound-pulse-mini-2i-100-vt/441852088?sku=100640725911"
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -51,12 +57,7 @@
       "manual_url": "https://content-bluesound-com.s3.amazonaws.com/uploads/2018/08/PULSE_Mini_2i_Owners_Manual_Sept2018-1.pdf"
     }
   },
-  "de": {
-    "Input": [
-      "Wi-Fi",
-      "Ethernet"
-    ]
-  },
+  "de": {},
   "fr": {},
   "ru": {}
 }

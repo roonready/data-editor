@@ -28,12 +28,16 @@
     "variants": [
       {
         "variant_image": "/img/auralic-altair-g1.webp",
-        "offers": [
+        "options": [
           {
-            "markets": [
-              "russia"
-            ],
-            "url": "https://market.yandex.ru/product--setevoi-audiopleer-auralic-altair-g1/664721238?sku=100932929787"
+            "offers": [
+              {
+                "markets": [
+                  "russia"
+                ],
+                "url": "https://market.yandex.ru/product--setevoi-audiopleer-auralic-altair-g1/664721238?sku=100932929787"
+              }
+            ]
           }
         ],
         "color": "black"

@@ -49,12 +49,16 @@
     "variants": [
       {
         "color": "black",
-        "offers": [
+        "options": [
           {
-            "markets": [
-              "uk"
-            ],
-            "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
+            "offers": [
+              {
+                "markets": [
+                  "uk"
+                ],
+                "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
+              }
+            ]
           }
         ],
         "variant_image": "/img/antipodex-cx-black.jpg"
@@ -62,12 +66,16 @@
       {
         "color": "silver",
         "variant_image": "/img/antipodex-cx-silver.webp",
-        "offers": [
+        "options": [
           {
-            "markets": [
-              "uk"
-            ],
-            "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
+            "offers": [
+              {
+                "markets": [
+                  "uk"
+                ],
+                "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
+              }
+            ]
           }
         ]
       }

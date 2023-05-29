@@ -58,24 +58,32 @@
       {
         "variant_image": "/img/antipodes-ex-black.jpg",
         "color": "black",
-        "offers": [
+        "options": [
           {
-            "markets": [
-              "uk"
-            ],
-            "url": "https://www.eliteaudiouk.com/product-page/antipodes-ex"
+            "offers": [
+              {
+                "markets": [
+                  "uk"
+                ],
+                "url": "https://www.eliteaudiouk.com/product-page/antipodes-ex"
+              }
+            ]
           }
         ]
       },
       {
         "variant_image": "/img/antipodes-ex-silver.jpg",
         "color": "silver",
-        "offers": [
+        "options": [
           {
-            "markets": [
-              "uk"
-            ],
-            "url": "https://www.eliteaudiouk.com/product-page/antipodes-ex"
+            "offers": [
+              {
+                "markets": [
+                  "uk"
+                ],
+                "url": "https://www.eliteaudiouk.com/product-page/antipodes-ex"
+              }
+            ]
           }
         ]
       }

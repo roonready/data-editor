@@ -144,32 +144,38 @@ collections:
               - title
             search_fields:
               - title
-          - label: Distinctive feature
-            name: feature
-            widget: string
-            i18n: false
-            required: false
-          - label: Offers
-            name: offers
+          - label: Options (internal featers, bundle with.., etc) and offers
+            name: options
             widget: list
             i18n: false
             required: false
             fields:
-              - label: Markets
-                name: markets
-                widget: relation
-                required: false
-                collection: markets
-                value_field: "{{slug}}"
-                display_fields:
-                  - title
-                search_fields:
-                  - title
-                multiple: true
-              - label: URL
-                name: url
-                required: false
+              - label: Distinctive feature
+                name: feature
                 widget: string
+                i18n: false
+                required: false
+              - label: Offers
+                name: offers
+                widget: list
+                i18n: false
+                required: false
+                fields:
+                  - label: Markets
+                    name: markets
+                    widget: relation
+                    required: false
+                    collection: markets
+                    value_field: "{{slug}}"
+                    display_fields:
+                      - title
+                    search_fields:
+                      - title
+                    multiple: true
+                  - label: URL
+                    name: url
+                    required: false
+                    widget: string
       - label: Datasource and other proof links (for editor's internal use)
         name: datasource_link
         widget: list
