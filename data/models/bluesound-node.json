@@ -25,7 +25,7 @@
     "variants": [
       {
         "color": "black-silver",
-        "variant_image": "/img/bluesound-node-n100-black.webp",
+        "variant_image": "/img/bluesound-node-n100-black.webp"
       },
       {
         "color": "white",
@@ -33,12 +33,7 @@
       }
     ]
   },
-  "de": {
-    "Input": [
-      "Ethernet",
-      "Wi-Fi"
-    ]
-  },
+  "de": {},
   "fr": {},
   "ru": {}
 }
