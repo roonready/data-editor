@@ -34,19 +34,7 @@
                 "markets": [
                   "russia"
                 ],
-                "url": "https://market.yandex.ru/product--integralnye-stereousiliteli-bluesound-powernode-n330-black/102027250241?sku=102027250241"
-              },
-              {
-                "markets": [
-                  "russia"
-                ],
                 "url": "https://market.yandex.ru/product--setevoi-usilitel-bluesound-powernode-n330-black/101794732077?sku=101794732077"
-              },
-              {
-                "markets": [
-                  "russia"
-                ],
-                "url": "https://market.yandex.ru/product--integralnye-stereousiliteli-bluesound-powernode-n330-black/102027193253?sku=102027193253"
               },
               {
                 "markets": [
@@ -114,7 +102,18 @@
       "0": {
         "options": {
           "0": {
-            "feature": ""
+            "feature": "",
+            "offers": {
+              "1": {
+                "url": "https://market.yandex.ru/product--integralnye-stereousiliteli-bluesound-powernode-n330-black/102027250241?sku=102027250241"
+              },
+              "2": {
+                "url": "https://market.yandex.ru/product--setevoi-usilitel-bluesound-powernode-n330-black/101794732077?sku=101794732077"
+              },
+              "3": {
+                "url": "https://market.yandex.ru/product--integralnye-stereousiliteli-bluesound-powernode-n330-black/102027193253?sku=102027193253"
+              }
+            }
           }
         }
       },
