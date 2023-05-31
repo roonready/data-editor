@@ -54,7 +54,8 @@
                 ],
                 "url": "https://www.amazon.com/Bluesound-POWERNODE-Multi-Room-Streaming-Amplifier/dp/B0937HLTXT?th=1"
               }
-            ]
+            ],
+            "feature": "standard"
           }
         ]
       },
@@ -100,14 +101,31 @@
                 ],
                 "url": "https://www.amazon.com/Bluesound-POWERNODE-Multi-Room-Streaming-Amplifier/dp/B0937MJJ2R?th=1"
               }
-            ]
+            ],
+            "feature": "standard"
           }
         ]
       }
     ]
   },
   "de": {
-    "Input": ""
+    "Input": "",
+    "variants": {
+      "0": {
+        "options": {
+          "0": {
+            "feature": ""
+          }
+        }
+      },
+      "1": {
+        "options": {
+          "0": {
+            "feature": ""
+          }
+        }
+      }
+    }
   },
   "fr": {},
   "ru": {}
