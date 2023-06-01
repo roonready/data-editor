@@ -1,6 +1,9 @@
 {
   "en": {
-    "Input": "",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
     "brand": "bluesound",
     "title": "NODE (N130)",
     "image": "/img/bluesound-node-n130.svg",
