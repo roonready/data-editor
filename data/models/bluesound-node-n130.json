@@ -56,7 +56,8 @@
                 ],
                 "url": "https://market.yandex.ru/product--setevoi-audio-proigryvatel-bluesound-node-n130-black/1000291011?sku=101372738739"
               }
-            ]
+            ],
+            "fpresented": false
           },
           {
             "feature": "+ RC1 Remote ",
@@ -67,7 +68,8 @@
                 ],
                 "url": "https://www.amazon.com/Bluesound-Wireless-Multi-Room-Hi-res-Streamer/dp/B0BSB2HN3P"
               }
-            ]
+            ],
+            "fpresented": true
           }
         ],
         "variant_image": "/img/bluesound-node-n130-black.webp"
@@ -101,7 +103,8 @@
                 ],
                 "url": "https://market.yandex.ru/product--bluesound-node-n130-white/1395531929?sku=101381738015"
               }
-            ]
+            ],
+            "fpresented": false
           }
         ],
         "variant_image": "/img/blouesound-node-n130-white.webp"
@@ -109,8 +112,10 @@
     ]
   },
   "de": {
-    "Input": "",
-    "title": ""
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
   },
   "fr": {},
   "ru": {}

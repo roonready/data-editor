@@ -47,6 +47,7 @@ collections:
         widget: select
         options: ["Ethernet", "Wi-Fi"]
         multiple: true
+        i18n: false
       - label: Type
         name: type
         widget: relation
@@ -150,6 +151,11 @@ collections:
             i18n: false
             required: false
             fields:
+              - label: distinctive feature presented
+                name: fpresented
+                widget: boolean
+                default: false
+                required: true
               - label: Distinctive feature
                 name: feature
                 widget: string
