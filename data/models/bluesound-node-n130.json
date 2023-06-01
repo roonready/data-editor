@@ -46,6 +46,12 @@
                   "uk"
                 ],
                 "url": "https://www.idealo.co.uk/compare/201468602/bluesound-node-black.html"
+              },
+              {
+                "markets": [
+                  "russia"
+                ],
+                "url": "https://market.yandex.ru/product--setevoi-audio-proigryvatel-bluesound-node-n130-black/1000291011?sku=101372738739"
               }
             ]
           },
@@ -60,7 +66,8 @@
               }
             ]
           }
-        ]
+        ],
+        "variant_image": "/img/bluesound-node-n130-black.webp"
       },
       {
         "color": "white",
@@ -84,10 +91,17 @@
                 "markets": [
                   "uk"
                 ]
+              },
+              {
+                "markets": [
+                  "russia"
+                ],
+                "url": "https://market.yandex.ru/product--bluesound-node-n130-white/1395531929?sku=101381738015"
               }
             ]
           }
-        ]
+        ],
+        "variant_image": "/img/blouesound-node-n130-white.webp"
       }
     ]
   },
