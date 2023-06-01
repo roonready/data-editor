@@ -3,7 +3,93 @@
     "Input": "",
     "brand": "bluesound",
     "title": "NODE (N130)",
-    "image": "/img/bluesound-node-n130.svg"
+    "image": "/img/bluesound-node-n130.svg",
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "yta": 2021,
+    "mrp": 549,
+    "related_links": [
+      {
+        "related_link_url": "https://www.whathifi.com/reviews/bluesound-node-2021",
+        "related_link_description": "Bluesound Node (2021) review"
+      }
+    ],
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.bluesound.com/products/node/",
+      "manual_url": "https://content-bluesound-com.s3.amazonaws.com/uploads/2021/05/Bluesound-NODE-N130_Owners-Manual.pdf"
+    },
+    "variants": [
+      {
+        "color": "black",
+        "options": [
+          {
+            "offers": [
+              {
+                "markets": [
+                  "germany"
+                ],
+                "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201468602_-node-black-bluesound.html"
+              },
+              {
+                "markets": [
+                  "france"
+                ],
+                "url": "https://www.idealo.fr/prix/201468602/bluesound-node-noir.html"
+              },
+              {
+                "markets": [
+                  "usa"
+                ],
+                "url": "https://www.amazon.com/Bluesound-Wireless-Multi-Room-Hi-Res-Streamer/dp/B0937LC7P2"
+              },
+              {
+                "markets": [
+                  "uk"
+                ],
+                "url": "https://www.idealo.co.uk/compare/201468602/bluesound-node-black.html"
+              }
+            ]
+          },
+          {
+            "feature": "+ RC1 Remote ",
+            "offers": [
+              {
+                "markets": [
+                  "usa"
+                ],
+                "url": "https://www.amazon.com/Bluesound-Wireless-Multi-Room-Hi-res-Streamer/dp/B0BSB2HN3P"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "color": "white",
+        "options": [
+          {
+            "offers": [
+              {
+                "markets": [
+                  "germany"
+                ],
+                "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4881829_-node-white-bluesound.html"
+              },
+              {
+                "markets": [
+                  "france"
+                ],
+                "url": "https://www.idealo.fr/prix/4881829/bluesound-node-blanc.html"
+              },
+              {
+                "url": "https://www.idealo.co.uk/compare/4881829/bluesound-node-white.html",
+                "markets": [
+                  "uk"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "de": {
     "Input": "",
