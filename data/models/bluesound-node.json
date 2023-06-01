@@ -1,7 +1,7 @@
 {
   "en": {
     "image": "/img/bluesound-node.webp",
-    "title": "NODE",
+    "title": "NODE (N100)",
     "brand": "bluesound",
     "Input": [
       "Ethernet",
@@ -33,7 +33,13 @@
       }
     ]
   },
-  "de": {},
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "title": "NODE"
+  },
   "fr": {},
   "ru": {}
 }
