@@ -2,7 +2,7 @@
   "en": {
     "brand": "aavik",
     "title": "S-280",
-    "image": "/img/aavik-s-280.webp",
+    "image": "/img/aavik-s-280.svg",
     "type": "5CCVm750RvBKZJKUr9MAYX",
     "Input": [
       "Ethernet"
@@ -13,7 +13,9 @@
     }
   },
   "de": {
-    "Input": "",
+    "Input": [
+      "Ethernet"
+    ],
     "essential_links": {
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual_vers02_2021_ger_web1.pdf"
     }
