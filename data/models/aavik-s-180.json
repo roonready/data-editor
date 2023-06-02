@@ -2,7 +2,7 @@
   "en": {
     "brand": "aavik",
     "title": "S-180",
-    "image": "/img/aavik-s-180.webp",
+    "image": "/img/aavik-s-180.svg",
     "type": "5CCVm750RvBKZJKUr9MAYX",
     "editors_comments": "",
     "Input": [
@@ -33,7 +33,8 @@
                 ],
                 "url": "https://market.yandex.ru/product--setevoi-pleer-aavik-acoustics-s-180/1832668391?sku=101991082267"
               }
-            ]
+            ],
+            "fpresented": false
           }
         ]
       }
@@ -45,6 +46,15 @@
     ],
     "essential_links": {
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual_vers02_2021_ger_web1.pdf"
+    },
+    "variants": {
+      "0": {
+        "options": {
+          "0": {
+            "fpresented": false
+          }
+        }
+      }
     }
   },
   "fr": {},
