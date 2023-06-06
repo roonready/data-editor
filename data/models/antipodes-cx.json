@@ -1,6 +1,6 @@
 {
   "en": {
-    "image": "/img/antipodes-ex.webp",
+    "image": "/img/antipodes-cx.svg",
     "title": "CX",
     "brand": "antipodes",
     "Input": [
@@ -58,7 +58,8 @@
                 ],
                 "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
               }
-            ]
+            ],
+            "fpresented": false
           }
         ],
         "variant_image": "/img/antipodex-cx-black.jpg"
@@ -75,15 +76,40 @@
                 ],
                 "url": "https://www.eliteaudiouk.com/product-page/antipodes-cx"
               }
-            ]
+            ],
+            "fpresented": false
           }
         ]
       }
     ],
     "editors_comments": "changed image"
   },
-  "de": {},
-  "fr": {},
+  "de": {
+    "variants": {
+      "0": {
+        "options": {
+          "0": {
+            "fpresented": false
+          }
+        }
+      },
+      "1": {
+        "options": {
+          "0": {
+            "fpresented": false
+          }
+        }
+      }
+    },
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
   "ru": {
     "related_links": [
       {
@@ -98,6 +124,9 @@
         "related_link_url": "https://www.hi-fi.ru/magazine/audio/test-antipodes-cx-ex-muzy/",
         "related_link_description": "Тест Antipodes CX + EX Музыкальный сервер и стример «под микроскопом»"
       }
+    ],
+    "Input": [
+      "Ethernet"
     ]
   }
 }
