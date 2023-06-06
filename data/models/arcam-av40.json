@@ -1,15 +1,6 @@
 {
   "en": {
-    "variants": [
-      {
-        "options": [
-          {
-            "fpresented": false
-          }
-        ],
-        "color": "black"
-      }
-    ],
+    "variants": [],
     "Input": [
       "Ethernet",
       "Wi-Fi"
