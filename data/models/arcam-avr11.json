@@ -1,0 +1,32 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "title": "AVR11",
+    "yta": 2022,
+    "image": "/img/arcam-avr11.svg",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,av-receivers,avr11.htm",
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/AVR11/User%20Manual%20(Multi%20Language)/SH321_EN-FR-DE-NL-ES-RU-IT-CN-KO_IssueA.pdf"
+    },
+    "type": "5XTqvTh3OheVRPl1XYUIKQ"
+  },
+  "de": {
+    "Input": "",
+    "title": ""
+  },
+  "fr": {},
+  "ru": {}
+}
