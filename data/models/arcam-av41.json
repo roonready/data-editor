@@ -1,14 +1,6 @@
 {
   "en": {
-    "variants": [
-      {
-        "options": [
-          {
-            "fpresented": false
-          }
-        ]
-      }
-    ],
+    "variants": [],
     "Input": [
       "Ethernet",
       "Wi-Fi"
