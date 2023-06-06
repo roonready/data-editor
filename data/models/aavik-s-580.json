@@ -18,7 +18,26 @@
       }
     ],
     "yta": 2022,
-    "mrp": ""
+    "mrp": 30000,
+    "variants": [
+      {
+        "variant_image": "/img/aavik-s-580-black.webp",
+        "color": "black",
+        "options": [
+          {
+            "fpresented": false,
+            "offers": [
+              {
+                "markets": [
+                  "usa"
+                ],
+                "url": "https://blinkhighend.com/shop/amplifiers-dacs/aavik/c280-c580/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "de": {
     "Input": [
