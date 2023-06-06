@@ -1,14 +1,6 @@
 {
   "en": {
-    "variants": [
-      {
-        "options": [
-          {
-            "fpresented": false
-          }
-        ]
-      }
-    ],
+    "variants": [],
     "Input": [
       "Ethernet",
       "Wi-Fi"
@@ -24,7 +16,10 @@
     "yta": 2022
   },
   "de": {
-    "Input": "",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
     "title": ""
   },
   "fr": {},
