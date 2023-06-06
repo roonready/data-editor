@@ -1,0 +1,45 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "title": "AVR21",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,av-receivers,avr21.htm",
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/AVR21/User%20Manual%20(Multi%20Language)/SH321_EN-FR-DE-NL-ES-RU-IT-CN-KO_IssueA.pdf"
+    },
+    "type": "5XTqvTh3OheVRPl1XYUIKQ",
+    "image": "/img/arcam-avr21.svg",
+    "yta": 2022
+  },
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "title": ""
+  },
+  "fr": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  }
+}
