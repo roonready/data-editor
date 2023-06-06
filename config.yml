@@ -128,7 +128,7 @@ collections:
                 name: fpresented
                 widget: boolean
                 default: false
-                required: true
+                required: false
               - label: Distinctive feature
                 name: feature
                 widget: string
