@@ -1,0 +1,32 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "title": "AV40",
+    "essential_links": {
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/AV40/User%20Manual%20(Multi%20Language)/SH303_EN-FR-DE-NL-ES-RU-IT-CN-KO_IssueF_10Jul20.pdf",
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,av-processors,av40.htm"
+    },
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "image": "/img/arcam-av40.svg",
+    "yta": 2020
+  },
+  "de": {
+    "Input": "",
+    "title": ""
+  },
+  "fr": {},
+  "ru": {}
+}
