@@ -57,6 +57,14 @@
       }
     }
   },
-  "fr": {},
-  "ru": {}
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet"
+    ]
+  }
 }
