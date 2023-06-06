@@ -63,7 +63,7 @@ collections:
         widget: select
         options: ["Ethernet", "Wi-Fi"]
         multiple: true
-        i18n: false
+        i18n: duplicate
       - label: Type
         name: type
         widget: relation
