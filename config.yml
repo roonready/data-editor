@@ -95,33 +95,6 @@ collections:
         value_type: int
         min: 10
         max: 50000
-      - label: Remarks (for selected language)
-        name: remark
-        i18n: true
-        widget: text
-        required: false
-      - label: Description (for selected language)
-        name: desc
-        i18n: true
-        widget: markdown
-        required: false
-
-      - label: Related links (reviews etc.) (for selected language)
-        name: related_links
-        widget: list
-        i18n: true
-        required: false
-        fields:
-          - label: Link description
-            name: related_link_description
-            widget: string
-            required: false
-            i18n: true
-          - label: URL
-            name: related_link_url
-            required: false
-            widget: string
-            i18n: true
       - label: Variants and offers
         name: variants
         widget: list
@@ -182,6 +155,32 @@ collections:
                     name: url
                     required: false
                     widget: string
+      - label: Related links (reviews etc.) (for selected language)
+        name: related_links
+        widget: list
+        i18n: true
+        required: false
+        fields:
+          - label: Link description
+            name: related_link_description
+            widget: string
+            required: false
+            i18n: true
+          - label: URL
+            name: related_link_url
+            required: false
+            widget: string
+            i18n: true
+      - label: Remarks (for selected language)
+        name: remark
+        i18n: true
+        widget: text
+        required: false
+      - label: Description (for selected language)
+        name: desc
+        i18n: true
+        widget: markdown
+        required: false
       - label: Datasource and other proof links (for editor's internal use)
         name: datasource_link
         widget: list
@@ -202,7 +201,6 @@ collections:
         i18n: false
         widget: text
         required: false
-
   - label: Brands
     name: brands
     folder: data/brands
