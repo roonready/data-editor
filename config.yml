@@ -41,6 +41,22 @@ collections:
         name: title
         widget: string
         required: true
+      - label: essential links (for selected language)
+        name: essential_links
+        widget: object
+        required: false
+        i18n: true
+        fields:
+          - label: Product Page URL
+            name: manufacturers_site_product_page_url
+            widget: string
+            i18n: true
+            required: false
+          - label: User's manual  URL
+            name: manual_url
+            widget: string
+            i18n: true
+            required: false
       - label: Input
         name: Input
         required: false
@@ -90,22 +106,6 @@ collections:
         widget: markdown
         required: false
 
-      - label: essential links (for selected language)
-        name: essential_links
-        widget: object
-        required: false
-        i18n: true
-        fields:
-          - label: Product Page URL
-            name: manufacturers_site_product_page_url
-            widget: string
-            i18n: true
-            required: false
-          - label: User's manual  URL
-            name: manual_url
-            widget: string
-            i18n: true
-            required: false
       - label: Related links (reviews etc.) (for selected language)
         name: related_links
         widget: list
@@ -138,7 +138,7 @@ collections:
             name: color
             widget: relation
             collection: colors
-            required: true
+            required: false
             i18n: false
             value_field: "{{slug}}"
             display_fields:
