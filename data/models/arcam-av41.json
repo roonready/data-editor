@@ -1,0 +1,32 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "title": "AV41",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,av-processors,av41.htm",
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/AV41/User%20Manual%20(Multi%20Language)/SH321_EN-FR-DE-NL-ES-RU-IT-CN-KO_IssueA.pdf"
+    },
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "image": "/img/arcam-av41.svg",
+    "yta": 2022
+  },
+  "de": {
+    "Input": "",
+    "title": ""
+  },
+  "fr": {},
+  "ru": {}
+}
