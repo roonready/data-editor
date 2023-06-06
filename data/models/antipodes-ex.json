@@ -1,6 +1,6 @@
 {
   "en": {
-    "image": "/img/antipodes-ex.webp",
+    "image": "/img/antipodes-ex.svg",
     "title": "EX",
     "brand": "antipodes",
     "Input": [
@@ -67,7 +67,8 @@
                 ],
                 "url": "https://www.eliteaudiouk.com/product-page/antipodes-ex"
               }
-            ]
+            ],
+            "fpresented": false
           }
         ]
       },
@@ -83,20 +84,48 @@
                 ],
                 "url": "https://www.eliteaudiouk.com/product-page/antipodes-ex"
               }
-            ]
+            ],
+            "fpresented": false
           }
         ]
       }
     ]
   },
-  "de": {},
-  "fr": {},
+  "de": {
+    "variants": {
+      "0": {
+        "options": {
+          "0": {
+            "fpresented": false
+          }
+        }
+      },
+      "1": {
+        "options": {
+          "0": {
+            "fpresented": false
+          }
+        }
+      }
+    },
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
   "ru": {
     "related_links": [
       {
         "related_link_url": "https://www.hi-fi.ru/magazine/audio/antipodes-audio-cxex-test/",
         "related_link_description": "Antipodes Audio CX + EX: тест ультимативного сервера и стримера"
       }
+    ],
+    "Input": [
+      "Ethernet"
     ]
   }
 }
