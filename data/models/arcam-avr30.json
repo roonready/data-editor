@@ -1,0 +1,45 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "title": "AVR30",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,av-receivers,avr30.htm",
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/AVR30/User%20Manual%20(Multi%20Language)/SH303_EN-FR-DE-NL-ES-RU-IT-CN-KO_IssueF_10Jul20.pdf"
+    },
+    "type": "5XTqvTh3OheVRPl1XYUIKQ",
+    "image": "/img/arcam-avr30.svg",
+    "yta": 2020
+  },
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "title": ""
+  },
+  "fr": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  }
+}
