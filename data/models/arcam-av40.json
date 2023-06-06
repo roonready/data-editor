@@ -6,7 +6,8 @@
           {
             "fpresented": false
           }
-        ]
+        ],
+        "color": "black"
       }
     ],
     "Input": [
@@ -24,7 +25,10 @@
     "yta": 2020
   },
   "de": {
-    "Input": "",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
     "title": ""
   },
   "fr": {},
