@@ -24,7 +24,10 @@
     "type": "5XTqvTh3OheVRPl1XYUIKQ"
   },
   "de": {
-    "Input": "",
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
     "title": ""
   },
   "fr": {},
