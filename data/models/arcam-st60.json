@@ -1,0 +1,45 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "title": "ST60",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,streamers,st60.htm",
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/ST60/User%20Manual/SH308_EN-FR-DE-NL-ES-RU-IT-CN-KO__Web_IssueB_211020.pdf"
+    },
+    "type": "5CCVm750RvBKZJKUr9MAYX",
+    "image": "/img/arcam-st60.svg",
+    "yta": 2020
+  },
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "title": ""
+  },
+  "fr": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  }
+}
