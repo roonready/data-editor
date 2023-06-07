@@ -22,6 +22,16 @@
     ],
     "title": ""
   },
-  "fr": {},
-  "ru": {}
+  "fr": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  }
 }
