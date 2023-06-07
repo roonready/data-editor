@@ -1,0 +1,51 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Wi-Fi"
+    ],
+    "brand": "astell-kern",
+    "title": "ACRO CA1000",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.astellnkern.com/product/product_detail.jsp?productNo=130",
+      "manual_url": "https://www.astellnkern.com/system/download.jsp?type=bbs&subType=download&filename=20220120212809_44025405-7485-43b6-9512-e22737658500.pdf&name=ACRO+CA1000_instruction+book_ENG.pdf"
+    },
+    "yta": 2022,
+    "image": "/img/astell&kern-acro-ca1000.svg",
+    "mrp": 2100,
+    "type": "5CCVm750RvBKZJKUr9MAYX"
+  },
+  "de": {
+    "Input": [
+      "Wi-Fi"
+    ],
+    "title": "",
+    "essential_links": {
+      "manual_url": "https://www.astellnkern.com/system/download.jsp?type=bbs&subType=download&filename=20220120212811_c66f6ddd-007d-4c73-acad-167fa534c56b.pdf&name=ACRO+CA1000_instruction+book_GER.pdf"
+    }
+  },
+  "fr": {
+    "Input": [
+      "Wi-Fi"
+    ],
+    "essential_links": {
+      "manual_url": "https://www.astellnkern.com/system/download.jsp?type=bbs&subType=download&filename=20220120212810_88e6821e-d3a4-4be4-8ef1-5b7159227100.pdf&name=ACRO+CA1000_instruction+book_FRE.pdf"
+    }
+  },
+  "ru": {
+    "Input": [
+      "Wi-Fi"
+    ],
+    "essential_links": {
+      "manual_url": "https://www.astellnkern.com/system/download.jsp?type=bbs&subType=download&filename=20220120212813_a2c7d52f-f49a-4db0-9bca-5957db87d3dc.pdf&name=ACRO+CA1000_instruction+book_RS.pdf"
+    }
+  }
+}
