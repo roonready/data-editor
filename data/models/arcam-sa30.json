@@ -1,0 +1,45 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "brand": "arcam",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.arcam.co.uk/product,hda,integrated-amplifiers,sa30.htm",
+      "manual_url": "https://www.arcam.co.uk/ugc/tor/SA30/User%20Manual/SH304_EN-FR-DE-NL-ES-RU-IT-CN-KO__Web_Issue_G.pdf"
+    },
+    "title": "SA30",
+    "yta": 2020,
+    "image": "/img/arcam-sa30.svg",
+    "type": "5XTqvTh3OheVRPl1XYUIKQ"
+  },
+  "de": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "title": ""
+  },
+  "fr": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet",
+      "Wi-Fi"
+    ]
+  }
+}
