@@ -2,7 +2,7 @@
   "en": {
     "brand": "aavik",
     "title": "S-280",
-    "image": "/img/aavik-s-280.svg",
+    "image": "/img/aavik-s-280.webp",
     "type": "5CCVm750RvBKZJKUr9MAYX",
     "Input": [
       "Ethernet"
@@ -11,33 +11,11 @@
       "manufacturers_site_product_page_url": "https://audiogroupdenmark.com/product/aavik-s-280/",
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual.pdf"
     },
-    "yta": 2022,
-    "variants": [
-      {
-        "variant_image": "/img/aavik-s-280-black.webp",
-        "color": "black",
-        "options": [
-          {
-            "fpresented": false,
-            "offers": [
-              {
-                "markets": [
-                  "russia"
-                ],
-                "url": "https://market.yandex.ru/product--setevoi-pleer-aavik-acoustics-s-280/1833150702?text=aavik&cpc=aZj8JzuaqHYjNhGYCRq2pf_v6ZXEmluJsMnguOOjepK-NotZJnc8qbXMoXOreKoacPyX0Itpdop5YsMUE75xOMak_C5hrLcrJCe8GW2nKtWsZ6DHRhb4WhZ1wUSGbwf8fiwCqkUxZgzArRhE52LzflmwyfuFh5MM1RaCBd8KRgpqjy2BiMB5brrvklvjwOBPPI2FN9YRduM%2C&rs=eJwzEghgrGLh2HWYdRYja2JiWWY2ACu7BUg%2C&sku=101991721505&do-waremd5=s8bpy4hJqlow7HdGNz2uDQ&cpa=1&nid=38495810"
-              },
-              {
-                "markets": [
-                  "usa"
-                ],
-                "url": "https://blinkhighend.com/shop/amplifiers-dacs/aavik/c280-c580/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "mrp": 14400
+    "outputs": [
+      "320",
+      "360",
+      "800"
+    ]
   },
   "de": {
     "Input": [
@@ -47,6 +25,14 @@
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual_vers02_2021_ger_web1.pdf"
     }
   },
-  "fr": {},
-  "ru": {}
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet"
+    ]
+  }
 }
