@@ -30,13 +30,7 @@ collections:
       - label: Brand
         name: brand
         required: true
-        widget: relation
-        collection: brands
-        value_field: "{{slug}}"
-        display_fields:
-          - title
-        search_fields:
-          - title
+
       - label: Model name
         name: title
         widget: string
@@ -70,6 +64,18 @@ collections:
         required: false
         collection: types
         value_field: "{{slug}}"
+        display_fields:
+          - title
+        search_fields:
+          - title
+      - label: Outputs
+        name: outputs
+        widget: relation
+        required: false
+        collection: outputs
+        value_field: "{{slug}}"
+        hint: what you get
+        multiple: true
         display_fields:
           - title
         search_fields:
@@ -266,3 +272,52 @@ collections:
         widget: string
         required: false
         i18n: true
+  - label: Outputs
+    name: outputs
+    i18n: false
+    folder: data/outputs
+    format: json
+    create: true
+    publish: true
+    delete: true
+    slug: "{{sortcode}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+        i18n: true
+      - label: Custom sortcode
+        name: sortcode
+        widget: number
+        min: 200
+        max: 999
+      - label: Group
+        name: group
+        widget: relation
+        collection: outputgroups
+        value_field: "{{slug}}"
+        display_fields:
+          - title
+        search_fields:
+          - title
+  - label: Output groups
+    name: outputgroups
+    i18n: false
+    folder: data/outputgroups
+    format: json
+    create: true
+    publish: true
+    delete: false
+    slug: "{{sortcode}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+        i18n: true
+      - label: Custom sortcode
+        name: sortcode
+        widget: number
+        min: 20
+        max: 99
