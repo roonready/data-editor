@@ -82,7 +82,10 @@
         ]
       }
     ],
-    "editors_comments": "changed image"
+    "editors_comments": "changed image",
+    "outputs": [
+      "200"
+    ]
   },
   "de": {
     "variants": {
