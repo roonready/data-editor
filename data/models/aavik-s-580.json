@@ -37,6 +37,11 @@
           }
         ]
       }
+    ],
+    "outputs": [
+      "320",
+      "360",
+      "800"
     ]
   },
   "de": {
@@ -47,6 +52,14 @@
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_d-180_280_580_usermanual_vers02_2021_ger_web.pdf"
     }
   },
-  "fr": {},
-  "ru": {}
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet"
+    ]
+  }
 }
