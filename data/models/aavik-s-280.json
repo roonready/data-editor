@@ -2,7 +2,7 @@
   "en": {
     "brand": "aavik",
     "title": "S-280",
-    "image": "/img/aavik-s-280.webp",
+    "image": "/img/aavik-s-280.svg",
     "type": "5CCVm750RvBKZJKUr9MAYX",
     "Input": [
       "Ethernet"
@@ -15,7 +15,8 @@
       "320",
       "360",
       "800"
-    ]
+    ],
+    "yta": 2022
   },
   "de": {
     "Input": [
