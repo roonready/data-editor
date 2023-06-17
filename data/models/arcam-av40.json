@@ -13,14 +13,16 @@
     },
     "type": "20230608202758",
     "image": "/img/arcam-av40.svg",
-    "yta": 2020
+    "yta": 2020,
+    "typebyman": "AV Processor"
   },
   "de": {
     "Input": [
       "Ethernet",
       "Wi-Fi"
     ],
-    "title": ""
+    "title": "",
+    "typebyman": ""
   },
   "fr": {
     "Input": [
