@@ -85,7 +85,8 @@
     "editors_comments": "",
     "outputs": [
       "200"
-    ]
+    ],
+    "typebyman": "Server – Player"
   },
   "de": {
     "variants": {
@@ -107,7 +108,8 @@
     "Input": [
       "Ethernet"
     ],
-    "editors_comments": "changed image"
+    "editors_comments": "changed image",
+    "typebyman": ""
   },
   "fr": {
     "Input": [
