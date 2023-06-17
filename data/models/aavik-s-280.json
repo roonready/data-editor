@@ -16,7 +16,8 @@
       "360",
       "800"
     ],
-    "yta": 2022
+    "yta": 2022,
+    "typebyman": "Streamer"
   },
   "de": {
     "Input": [
@@ -24,7 +25,8 @@
     ],
     "essential_links": {
       "manual_url": "https://audiogroupdenmark.com/wp-content/uploads/2021/12/aavik_s-180_280_580_usermanual_vers02_2021_ger_web1.pdf"
-    }
+    },
+    "typebyman": ""
   },
   "fr": {
     "Input": [
