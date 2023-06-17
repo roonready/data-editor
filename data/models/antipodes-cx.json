@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "editors_comments": "changed image",
+    "editors_comments": "",
     "outputs": [
       "200"
     ]
@@ -106,7 +106,8 @@
     },
     "Input": [
       "Ethernet"
-    ]
+    ],
+    "editors_comments": "changed image"
   },
   "fr": {
     "Input": [
