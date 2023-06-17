@@ -1,0 +1,44 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet"
+    ],
+    "brand": "allo",
+    "title": "USBridge",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.allo.com/sparky/usbridge.html",
+      "manual_url": "https://www.amazon.com/clouddrive/share/DvvLwgL7HfI6ebZCkbRxH0OE0K7nZru1SpkG5Ya1Hzs/kk5v04XDRUCBZdcaJ3pD1g"
+    },
+    "outputs": [
+      "200"
+    ],
+    "image": "/img/allo-usbbridge.svg",
+    "yta": 2017,
+    "mrp": 131
+  },
+  "de": {
+    "Input": [
+      "Ethernet"
+    ],
+    "title": ""
+  },
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet"
+    ]
+  }
+}
