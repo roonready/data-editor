@@ -43,7 +43,8 @@
       "800",
       "320",
       "360"
-    ]
+    ],
+    "typebyman": "Streamer"
   },
   "de": {
     "Input": [
@@ -60,7 +61,8 @@
           }
         }
       }
-    }
+    },
+    "typebyman": ""
   },
   "fr": {
     "Input": [
