@@ -93,7 +93,8 @@
     "outputs": [
       "200",
       "800"
-    ]
+    ],
+    "typebyman": "Server – Player"
   },
   "de": {
     "variants": {
@@ -114,7 +115,8 @@
     },
     "Input": [
       "Ethernet"
-    ]
+    ],
+    "typebyman": ""
   },
   "fr": {
     "Input": [
