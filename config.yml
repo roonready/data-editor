@@ -30,11 +30,21 @@ collections:
       - label: Brand
         name: brand
         required: true
-
+        widget: relation
+        collection: brands
+        value_field: "{{slug}}"
+        display_fields:
+          - title
+        search_fields:
+          - title
       - label: Model name
         name: title
         widget: string
         required: true
+      - label: Type by manufacturer
+        name: typebyman
+        widget: string
+        required: false
       - label: essential links (for selected language)
         name: essential_links
         widget: object
@@ -60,7 +70,7 @@ collections:
         i18n: duplicate
       - label: Type
         name: type
-        widget: relation
+        widget: hidden
         required: false
         collection: types
         value_field: "{{slug}}"
