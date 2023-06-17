@@ -1,0 +1,46 @@
+{
+  "en": {
+    "variants": [
+      {
+        "options": [
+          {
+            "fpresented": false
+          }
+        ]
+      }
+    ],
+    "Input": [
+      "Ethernet"
+    ],
+    "brand": "allo",
+    "title": "DIGIONE",
+    "typebyman": "Player",
+    "essential_links": {
+      "manufacturers_site_product_page_url": "https://www.allo.com/sparky/digione-player.html",
+      "manual_url": "https://www.amazon.com/clouddrive/share/JqIMY5HrUj1mIxL74n6NOoM8puTtPluI3vCDejjphFy/vicFlo2iQkuRPykmwaTCtA"
+    },
+    "outputs": [
+      "280",
+      "320"
+    ],
+    "yta": 2017,
+    "mrp": 200
+  },
+  "de": {
+    "Input": [
+      "Ethernet"
+    ],
+    "title": "",
+    "typebyman": ""
+  },
+  "fr": {
+    "Input": [
+      "Ethernet"
+    ]
+  },
+  "ru": {
+    "Input": [
+      "Ethernet"
+    ]
+  }
+}
