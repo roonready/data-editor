@@ -13,14 +13,21 @@
     },
     "type": "20230608202758",
     "image": "/img/arcam-av41.svg",
-    "yta": 2022
+    "yta": 2022,
+    "typebyman": "AV Processor",
+    "outputs": [
+      "640",
+      "850",
+      "860"
+    ]
   },
   "de": {
     "Input": [
       "Ethernet",
       "Wi-Fi"
     ],
-    "title": ""
+    "title": "",
+    "typebyman": ""
   },
   "fr": {
     "Input": [
